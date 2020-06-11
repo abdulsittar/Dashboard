@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  height: 300;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="about-section">
+  <h1>About Us</h1>
+  <p>Some text about who we are and what we do.</p>
+  <p>Resize the browser window to see that this page is responsive by the way.</p>
+</div>
+
+<h2 style="text-align:center">Our Team</h2>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="/static/assets/img/profileimages/C.jpg" alt="Caio" style="width:100%" width="500" height="600">
+      <div class="container">
+        <h2>ESR 10 : Caio Mello</h2>
+        <p class="title">UoL</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Caio.Mello@sas.ac.uk</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/static/assets/img/profileimages/G.jpg" alt="Gullal" style="width:100%" width="500" height="600">
+      <div class="container">
+        <h2>ESR 7 : Gullal Singh Cheema</h2>
+        <p class="title">TIB</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>gullal.cheema@tib.eu</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="/static/assets/img/profileimages/D.jpg" alt="Denialla" style="width:100%" width="500" height="600">
+      <div class="container">
+        <h2>ESR 9: Daniela Major</h2>
+        <p class="title">UoL</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Daniela.major@sas.ac.uk</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/static/assets/img/profileimages/AS.jpg" alt="Abdul Sittar" style="width:100%" width="500" height="600">
+      <div class="container">
+        <h2>ESR 12 : Abdul Sittar</h2>
+        <p class="title">JSI</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>abdul.sittar@ijs.si</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+</div>
+<div class="container-fluid mt--7">
+<div class="main-content">
+<!-- Header -->
+    {% include 'includes/header.html' %}
+      <div class="container-fluid">
+          {% include 'includes/sidenav.html' %}
+      </div>
+</div>
+<script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='js/plots.js') }}"></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+
+
+
+</div>
+</body>
