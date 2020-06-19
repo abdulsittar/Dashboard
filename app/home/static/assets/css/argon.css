@@ -19141,7 +19141,7 @@ textarea[resize='horizontal']
 .navbar-vertical .navbar-brand > img
 {
     max-width: 100%;
-    max-height: 2rem;
+    max-height: 4rem;
 }
 @media (min-width: 768px)
 {
@@ -19351,7 +19351,7 @@ textarea[resize='horizontal']
 }
 .navbar-vertical.navbar-expand-xs .navbar-brand-img
 {
-    max-height: 2.5rem;
+    max-height: 4.5rem;
 }
 .navbar-vertical.navbar-expand-xs .navbar-user
 {
@@ -19468,7 +19468,6 @@ textarea[resize='horizontal']
     .navbar-vertical.navbar-expand-sm .navbar-brand
     {
         display: block;
-
         padding-top: 1rem;
         padding-bottom: 1rem; 
 
@@ -19476,7 +19475,7 @@ textarea[resize='horizontal']
     }
     .navbar-vertical.navbar-expand-sm .navbar-brand-img
     {
-        max-height: 2.5rem;
+        max-height: 4.5rem;
     }
     .navbar-vertical.navbar-expand-sm .navbar-user
     {
@@ -19602,7 +19601,7 @@ textarea[resize='horizontal']
     }
     .navbar-vertical.navbar-expand-md .navbar-brand-img
     {
-        max-height: 2.5rem;
+        max-height: 4.5rem;
     }
     .navbar-vertical.navbar-expand-md .navbar-user
     {
@@ -19728,7 +19727,7 @@ textarea[resize='horizontal']
     }
     .navbar-vertical.navbar-expand-lg .navbar-brand-img
     {
-        max-height: 2.5rem;
+        max-height: 4.5rem;
     }
     .navbar-vertical.navbar-expand-lg .navbar-user
     {
@@ -19854,7 +19853,7 @@ textarea[resize='horizontal']
     }
     .navbar-vertical.navbar-expand-xl .navbar-brand-img
     {
-        max-height: 2.5rem;
+        max-height: 4.5rem;
     }
     .navbar-vertical.navbar-expand-xl .navbar-user
     {

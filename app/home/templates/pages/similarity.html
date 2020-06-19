@@ -5,9 +5,7 @@
     <title>Temporal Analysis of Information Spreading</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
-</head>
-<body>
-<script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="{{ url_for('static', filename='js/plots.js') }}"></script>
@@ -15,9 +13,20 @@
 <script type="text/javascript">
     Bokeh.set_log_level("info");
 </script>
-
+</head>
+<body>
+<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+  <div class="container-fluid">
+        <div class="header-body">
 <h1 align="center">Temporal Analysis of News coverage</h1><br><br>
-
+<div class="col-xs-3">
+            <label>Select Dataset </label>
+            <select id="dataset">
+                <option value="select" selected="selected">Select</option>
+                <option value="olympics">Olympics</option>
+                <option value="euro">Euroscepticism</option>
+            </select>
+        </div>
 
 <div class="card">
   <img src="{{ url_for('static', filename='img/logo.png') }}" class="logo" />
@@ -28,6 +37,9 @@
     <i class="fas fa-arrow-right"></i>
   </a>
 </div>
+            </div>
+      </div>
+    </div>
 
 
 

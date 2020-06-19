@@ -162,6 +162,38 @@ def index():
 def sitemap():
     return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.xml')
 
+@blueprint.route('/select', methods=['GET', 'POST'])
+def upload_dataset_d3():
+    global fd_corpus, dataset
+
+    dataset = request.args['fdDataset']
+    if dataset == 'FIFA':
+        word_corpus = json.load(open('data/word_corpus_caio.json', 'r', encoding='utf-8'))
+    else dataset == 'earthquake':
+        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
+    else dataset == 'global':
+        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
+    else:
+        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
+
+    return jsonify(out=dataset)
+
+@blueprint.route('/select', methods=['GET', 'POST'])
+def upload_dataset_temporal():
+    global fd_corpus, dataset
+
+    dataset = request.args['tempDataset']
+    if dataset == 'FIFA':
+        word_corpus = json.load(open('data/word_corpus_caio.json', 'r', encoding='utf-8'))
+    else dataset == 'earthquake':
+        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
+    else dataset == 'global':
+        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
+    else:
+        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
+
+    return jsonify(out=dataset)
+
 
 @blueprint.route('/abdul', methods=['GET', 'POST'])
 def abdul():
@@ -180,8 +212,6 @@ def icons():
 @blueprint.route('/dashapp1', methods=['GET', 'POST'])
 def dashapp1():
     return redirect(url_for('DashExample_blueprint.app1_template'))
-
-
 
 
 

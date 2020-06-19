@@ -1,8 +1,18 @@
 <!-- {% block title %} Dashboard 1 {% endblock title %}-->
 
-
+<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+  <div class="container-fluid">
+        <div class="header-body">
 {% block content %}
   <div class="right_col" role="main">
+      <div class="col-xs-3" align="right">
+            <select id="tempdataset">
+                 <option value="select" selected="selected">Select Domain</option>
+                 <option value="FIFA">FIFA World Cup</option>
+                 <option value="global">Global Warming</option>
+                 <option value="eathquake">Earthquake </option>
+            </select>
+        </div>
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="dashboard_graph">
@@ -18,13 +28,15 @@
         </div>
       </div>
     </div>
-
+</div>
+          </div>
+        </div>
+  </div>
 {% endblock content %}
-<div class="main-content">
 <!-- Header -->
     {% include 'includes/header.html' %}
       <div class="container-fluid">
           {% include 'includes/sidenav.html' %}
       </div>
-</div>
+
 

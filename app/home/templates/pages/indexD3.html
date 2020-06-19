@@ -201,23 +201,32 @@ function drawLinks(links) {
 }
 </script>
 </head>
-
 <body>
-<div class="main-content">
-<!-- Header -->
-    {% include 'includes/header.html' %}
-      <div class="container-fluid">
-          {% include 'includes/sidenav.html' %}
-      </div>
+<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+  <div class="container-fluid">
+        <div class="header-body">
 </div>
     </div>
 
 <h1 align="center">Force Directed Graph</h1><br><br>
+    <div class="col-xs-3" align="right">
+    <select id="fdDataset">
+        <option value="select" selected="selected">Select Domain</option>
+        <option value="FIFA">FIFA World Cup</option>
+        <option value="global">Global Warming</option>
+        <option value="eathquake">Earthquake </option>
+    </select>
+</div>
 <div align="right" id="force"></div>
 
 <script>
 d3.json("static/EdgesFIFAWorldCupNew.json", drawGraph)
 </script>
 </div>
+<!-- Header -->
+    {% include 'includes/header.html' %}
+      <div class="container-fluid">
+          {% include 'includes/sidenav.html' %}
+      </div>
 </body>
 </html>

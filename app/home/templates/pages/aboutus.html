@@ -74,18 +74,30 @@ html {
   }
 }
 </style>
+  <script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='js/plots.js') }}"></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
 </head>
 <body>
 
-
-
-<div class="about-section">
+<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+      <div class="container-fluid">
+        <div class="header-body">
+<div class="about-section header bg-gradient-success pb-4 pt-2 pt-md-6">
   <h1>About Us</h1>
-  <p>Some text about who we are and what we do.</p>
-  <p>Resize the browser window to see that this page is responsive by the way.</p>
+  <p>WP6: Event-centric cross-lingual analytics and cross-cultural studies.</p>
+  <p>Objectives:Facilitate analytics of multilingual event-centric information and cross-cultural studies through leveraging crosslingual
+information processing and novel user access methods</p>
 </div>
 
 <h2 style="text-align:center">Our Team</h2>
+
+
 <div class="row">
   <div class="column">
     <div class="card">
@@ -93,7 +105,7 @@ html {
       <div class="container">
         <h2>ESR 10 : Caio Mello</h2>
         <p class="title">UoL</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Explore online discussion of the two recent Olympics, which took place on different continents, in different time zones, and in different linguistic contexts.</p>
         <p>Caio.Mello@sas.ac.uk</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -106,7 +118,7 @@ html {
       <div class="container">
         <h2>ESR 7 : Gullal Singh Cheema</h2>
         <p class="title">TIB</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Develop and research (deep) learning systems that are able to 1.) find the paragraphs and sentences in a text which are relevant to image content, and 2.) predict the granularity and semantic level of text-image relations.</p>
         <p>gullal.cheema@tib.eu</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -119,7 +131,7 @@ html {
       <div class="container">
         <h2>ESR 9: Daniela Major</h2>
         <p class="title">UoL</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Explore information flows between national media, identify translingual concepts and topics emerging during the elections.</p>
         <p>Daniela.major@sas.ac.uk</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -132,7 +144,7 @@ html {
       <div class="container">
         <h2>ESR 12 : Abdul Sittar</h2>
         <p class="title">JSI</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>Model the phenomenon of information propagation within the dynamic network of interconnected events. In other words, the objective is to model the characteristics of information spreading once a physical event happens somewhere in the world.</p>
         <p>abdul.sittar@ijs.si</p>
         <p><button class="button">Contact</button></p>
       </div>
@@ -140,24 +152,13 @@ html {
   </div>
 
 </div>
-<div class="container-fluid mt--7">
-<div class="main-content">
-<!-- Header -->
-    {% include 'includes/header.html' %}
-      <div class="container-fluid">
-          {% include 'includes/sidenav.html' %}
-      </div>
+          </div>
+        </div>
+
 </div>
-<script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="{{ url_for('static', filename='js/plots.js') }}"></script>
-<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
-<script type="text/javascript">
-    Bokeh.set_log_level("info");
-</script>
-
-
-
+<!-- Header -->
+{% include 'includes/header.html' %}
+<div class="container-fluid">
+  {% include 'includes/sidenav.html' %}
 </div>
 </body>

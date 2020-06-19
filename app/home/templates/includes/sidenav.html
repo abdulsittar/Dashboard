@@ -8,9 +8,9 @@
       </button>
       <!-- Brand -->
       <a class="navbar-brand pt-0" href="/">
-        <img src="/static/assets/img/brand/blue.png" class="navbar-brand-img" alt="Flask Argon Dashboard">
+        <img src="/static/assets/img/brand/green.png" class="navbar-brand-img" alt="Flask Argon Dashboard">
       </a>
-      <!-- User -->
+      <!-- User
       <ul class="nav align-items-center d-md-none">
         <li class="nav-item dropdown">
           <a class="nav-link nav-link-icon" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -50,7 +50,7 @@
             </a>
           </div>
         </li>
-      </ul>
+      </ul>-->
       <!-- Collapse -->
       <div class="collapse navbar-collapse" id="sidenav-collapse-main">
         <!-- Collapse header -->
@@ -58,7 +58,7 @@
           <div class="row">
             <div class="col-6 collapse-brand">
               <a href="./index.html">
-                <img src="/static/assets/img/brand/blue.png">
+                <img src="/static/assets/img/brand/green.png">
               </a>
             </div>
             <div class="col-6 collapse-close">
@@ -69,7 +69,7 @@
             </div>
           </div>
         </div>
-        <!-- Form -->
+        <!-- Form
         <form class="mt-4 mb-3 d-md-none">
           <div class="input-group input-group-rounded input-group-merge">
             <input type="search" class="form-control form-control-rounded form-control-prepended" placeholder="Search" aria-label="Search">
@@ -79,14 +79,14 @@
               </div>
             </div>
           </div>
-        </form>
+        </form>-->
         <!-- Navigation -->
         
 		<ul class="navbar-nav">
           
 		  <li class="nav-item">
             <a class="nav-link" href="/">
-              <i class="ni ni-tv-2 text-primary"></i> Data Sets 
+              <i class="ni ni-tv-2 text-primary"></i> Data Sets
 			</a> 
 		  </li>
           
@@ -98,14 +98,13 @@
           
 		  <li class="nav-item">
             <a class="nav-link" href={{ url_for('home_blueprint.dashapp1') }}>
-             <i class="ni ni-planet text-blue"></i> Temporal analysis of articles
+             <i class="ni ni-planet text-blue"></i> Similarity Analysis
             </a>
           </li>
 		  
 		  <li class="nav-item">
-            <a class="nav-link" href={{ url_for('home_blueprint.abdul') }}>
-             <i class="ni ni-planet text-blue"></i> Articles in Graph
-            </a>
+              <a class="nav-link" href={{ url_for('home_blueprint.abdul') }}>
+            <i class="ni ni-planet text-blue"></i>Force Directed Graph</a>
           </li>
 
           <li class="nav-item">
