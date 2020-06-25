@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="85a28c74-45bf-4f91-a23d-72d5cc9918ab" name="Default Changelist" comment="" />
+    <list default="true" id="85a28c74-45bf-4f91-a23d-72d5cc9918ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/home/static/CCEdgesAllForceDirected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/home/static/NDEdgesAllForceDirected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/home/static/SPEdgesAllForceDirected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/js/plots.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,31 +29,38 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1cB0rsS6EeMqRAEXZuknx1JoALj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/home/static/assets/img/profileimages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/home/static" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home\static\assets\img\profileimages" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home\templates\pages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home" />
       <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app" />
       <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\static" />
       <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\DashExample" />
       <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\home\static" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\static" />
+      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\data" />
+      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\Dashboard" />
+      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home\static\assets\vendor\@fortawesome\fontawesome-free\svgs\regular" />
     </key>
   </component>
   <component name="RunManager">
@@ -82,23 +104,38 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590059825824">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590059825824" />
-    <state x="383" y="119" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590617470396">
+    <state x="383" y="119" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592131604226">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="383" y="119" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1590617470396" />
+    <state x="383" y="119" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1592131604226" />
     <state x="366" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590072044754">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="366" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590072044754" />
-    <state x="422" y="99" key="FileChooserDialogImpl" timestamp="1590613261758">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="1266" y="227" key="FileChooserDialogImpl" timestamp="1593019533830">
+      <screen x="0" y="0" width="3840" height="1560" />
     </state>
     <state x="422" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590613261758" />
+    <state x="1266" y="227" key="FileChooserDialogImpl/0.0.3840.1560@0.0.3840.1560" timestamp="1593019533830" />
     <state width="1126" height="143" key="GridCell.Tab.0.bottom" timestamp="1590100785800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -124,5 +161,9 @@
     </state>
     <state x="0" y="0" width="585" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1589990465524" />
     <state x="1204" y="-16" width="1755" height="1560" key="find.popup/0.0.3840.1560@0.0.3840.1560" timestamp="1591893486921" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593008576111">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593008576111" />
   </component>
 </project>

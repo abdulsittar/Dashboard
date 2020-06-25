@@ -5,27 +5,30 @@ Copyright (c) 2019 - present AppSeed.us
 """
 
 import os
-from flask            import Flask
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-from flask_login      import LoginManager
-from flask_bcrypt     import Bcrypt
-from flask            import Flask
+from flask_login import LoginManager
+from flask_bcrypt import Bcrypt
+from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from importlib import import_module
 # Import routing, models and Start the App
-#from app import views, models
+# from app import views, models
 from Dashboard import Dash_App1
 
-from flask_bcrypt     import Bcrypt
+from flask_bcrypt import Bcrypt
+
 # Grabs the folder where the script runs.
 basedir = os.path.abspath(os.path.dirname(__file__))
 lm = LoginManager()
 db = SQLAlchemy()
 bc = Bcrypt()
-#app = Flask(__name__, static_folder='static')
-#app.config.from_object('app.configuration.Config')
-#app = Flask(__name__, static_folder='base/static')
-#for module_name in ():
+
+
+# app = Flask(__name__, static_folder='static')
+# app.config.from_object('app.configuration.Config')
+# app = Flask(__name__, static_folder='base/static')
+# for module_name in ():
 
 
 def apply_themes(app):
@@ -48,7 +51,7 @@ def apply_themes(app):
     def _generate_url_for_theme(endpoint, **values):
         if endpoint.endswith('static'):
             themename = values.get('theme', None) or \
-                app.config.get('DEFAULT_THEME', None)
+                        app.config.get('DEFAULT_THEME', None)
             if themename:
                 theme_file = "{}/{}".format(themename, values.get('filename', ''))
                 if path.isfile(path.join(app.static_folder, theme_file)):
@@ -64,16 +67,16 @@ def register_blueprints(app):
 
 def create_app(config, selenium=False):
     app = Flask(__name__, static_folder='home/static')
+
     app.config.from_object(config)
     db = SQLAlchemy(app)  # flask-sqlalchemy
     bc = Bcrypt(app)  # flask-bcrypt
-     # flask-loginmanager
+    # flask-loginmanager
     lm.init_app(app)  # init the login manager
 
     if selenium:
         app.config['LOGIN_DISABLED'] = True
     register_blueprints(app)
-    #apply_themes(app)
-    app = Dash_App1.Add_Dash(app)
+    # apply_themes(app)
+    app = Dash_App1.add_dash(app)
     return app
-

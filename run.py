@@ -9,6 +9,7 @@ from configs.config import config_dict
 import os
 import sys
 from app import create_app, db
+import logging
 
 get_config_mode = os.environ.get('GENTELELLA_CONFIG_MODE', 'Debug')
 

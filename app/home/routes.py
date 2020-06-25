@@ -53,7 +53,7 @@ def load_user(user_id):
     return User.query.get(int(user_id))
 
 # Logout user
-@blueprint.route('/logout.html')
+@blueprint.route('/home_blueprint.logout.html')
 def logout():
     logout_user()
     return redirect(url_for('home_blueprint.login'))
@@ -165,29 +165,13 @@ def sitemap():
 @blueprint.route('/select', methods=['GET', 'POST'])
 def upload_dataset_d3():
     global fd_corpus, dataset
-
+    app.logger.info('This is a log message!')
     dataset = request.args['fdDataset']
     if dataset == 'FIFA':
         word_corpus = json.load(open('data/word_corpus_caio.json', 'r', encoding='utf-8'))
-    else dataset == 'earthquake':
+    elif dataset == 'earthquake':
         word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
-    else dataset == 'global':
-        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
-    else:
-        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
-
-    return jsonify(out=dataset)
-
-@blueprint.route('/select', methods=['GET', 'POST'])
-def upload_dataset_temporal():
-    global fd_corpus, dataset
-
-    dataset = request.args['tempDataset']
-    if dataset == 'FIFA':
-        word_corpus = json.load(open('data/word_corpus_caio.json', 'r', encoding='utf-8'))
-    else dataset == 'earthquake':
-        word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
-    else dataset == 'global':
+    elif dataset == 'global':
         word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
     else:
         word_corpus = json.load(open('data/word_corpus_daniela.json', 'r', encoding='utf-8'))
@@ -208,12 +192,9 @@ def aboutus():
 def icons():
     return render_template("pages/icons.html")
 
-
-@blueprint.route('/dashapp1', methods=['GET', 'POST'])
+@blueprint.route('/dashapp1')
 def dashapp1():
     return redirect(url_for('DashExample_blueprint.app1_template'))
-
-
 
 def create_plot(city_news, wd_list):
     translator = Translator()
@@ -271,7 +252,7 @@ def create_plot(city_news, wd_list):
 
 @blueprint.route('/select', methods=['GET', 'POST'])
 def upload_dataset():
-    global word_corpus, dataset
+    global word_cos, dataset
 
     dataset = request.args['dataset']
     if dataset == 'olympics':

@@ -5,21 +5,13 @@
         <div class="header-body">
 {% block content %}
   <div class="right_col" role="main">
-      <div class="col-xs-3" align="right">
-            <select id="tempdataset">
-                 <option value="select" selected="selected">Select Domain</option>
-                 <option value="FIFA">FIFA World Cup</option>
-                 <option value="global">Global Warming</option>
-                 <option value="eathquake">Earthquake </option>
-            </select>
-        </div>
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="dashboard_graph">
           <div style="width: 100%; min-height:800px;" >
             <iframe 
               noresize='noresize' 
-              style='position: absolute; background: transparent; width: 95%; height:100%;' 
+              style='position: absolute; background: transparent; width: 100%; height:100%;'
               src={{ dash_url }}
               frameborder="0">
             </iframe>
