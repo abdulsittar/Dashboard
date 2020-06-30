@@ -67,7 +67,7 @@ def register_blueprints(app):
 
 def create_app(config, selenium=False):
     app = Flask(__name__, static_folder='home/static')
-
+    print(['%s' % rule for rule in app.url_map.iter_rules()]);
     app.config.from_object(config)
     db = SQLAlchemy(app)  # flask-sqlalchemy
     bc = Bcrypt(app)  # flask-bcrypt

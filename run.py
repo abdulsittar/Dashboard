@@ -19,7 +19,7 @@ except KeyError:
     sys.exit('Error: Invalid GENTELELLA_CONFIG_MODE environment variable entry.')
 
 app = create_app(config_mode)
-Migrate(app, db)
+#Migrate(app, db)
 
 if __name__ == "__main__":
-    app.run(debug = True)
+    app.run(debug=True)

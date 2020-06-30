@@ -24,7 +24,6 @@ flask-compress
 
 gevent
 greenlet==0.4.15 ; platform_python_implementation == 'CPython'
-gunicorn==19.9.0
 idna==2.8
 ipython-genutils==0.2.0
 itsdangerous==1.1.0

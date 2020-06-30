@@ -11,8 +11,6 @@ from . import blueprint
 from flask import render_template, request, url_for, redirect, send_from_directory, jsonify
 from flask_login import login_user, logout_user, current_user
 from app import lm, db, bc
-from app.models import User
-from app.forms import LoginForm, RegisterForm
 
 from googletrans import Translator
 import plotly
@@ -25,7 +23,6 @@ import numpy as np
 import json
 
 import spacy
-
 
 word_corpus = []
 dataset = ''
@@ -43,10 +40,9 @@ euro_news = ['theguardian', 'dailymail', 'elmundo', 'elpais']
 
 
 @blueprint.route('/')
-def index2():
-    return redirect(url_for('home_blueprint.index'))
-    #return render_template('index.html')
-# provide login manager with load_user callback
+def dashboard():
+    return render_template('layouts/default.html',
+                           content=render_template('pages/index.html'))
 
 @lm.user_loader
 def load_user(user_id):
@@ -149,7 +145,7 @@ def index():
    # try:
 
         # try to match the pages defined in -> pages/<input file>
-        return render_template('layouts/default.html',
+    return render_template('layouts/default.html',
                                content=render_template('pages/index.html'))
    # except:
 
@@ -181,7 +177,7 @@ def upload_dataset_d3():
 
 @blueprint.route('/abdul', methods=['GET', 'POST'])
 def abdul():
-    return render_template("pages/indexD3.html")
+    return render_template("pages/forceDirected.html")
 
 
 @blueprint.route('/aboutus', methods=['GET', 'POST'])
@@ -190,7 +186,7 @@ def aboutus():
 
 @blueprint.route('/icons', methods=['GET', 'POST'])
 def icons():
-    return render_template("pages/icons.html")
+    return render_template("pages/wordTrends.html")
 
 @blueprint.route('/dashapp1')
 def dashapp1():
