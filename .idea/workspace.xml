@@ -11,9 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85a28c74-45bf-4f91-a23d-72d5cc9918ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/DashExample/data/CCEdgesAllForceDirected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/DashExample/data/NDEdgesAllForceDirected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/DashExample/data/SPEdgesAllForceDirected.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/DashExample/static/assets/css/argon.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/DashExample/static/assets/css/argon.min.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/DashExample/static/assets/fonts/nucleo/nucleo-icons.eot" afterDir="false" />
@@ -1940,10 +1937,34 @@
       <change afterPath="$PROJECT_DIR$/app/DashExample/static/sitemap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/home/data/CCEdgesAllForceDirected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/home/data/NDEdgesAllForceDirected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/home/data/SPEdgesAllForceDirected.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/topic_modeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/CCEdgesAllForceDirected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/CCEdgesAllTemporal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/NDEdgesAllForceDirected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/NDEdgesAllTemporal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/SPEdgesAllForceDirected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/SPEdgesAllTemporal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bbc_london_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dailymail_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/elmundo_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/elpais_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_bbc_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_dailymail_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_estadao_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_folha_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_globo_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_telegraph_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/london_theguardian_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_bbc_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_dailymail_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_estadao_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_folha_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_globo_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_telegraph_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/rio_theguardian_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/theguardian_allnews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/word_corpus_caio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/word_corpus_daniela.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1972,23 +1993,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/home/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/DashExample/static" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\home\data" />
-      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample" />
-      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample\static" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample\data" />
       <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\home\static" />
-      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\static" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\home\templates" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample\data" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\home" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\static" />
-      <recent name="C:\Users\Abdul Sittar\PycharmProjects\flask-argon-dashboard-master\app\DashExample" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\data" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample\static\data" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample\static" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\DashExample\templates" />
+      <recent name="C:\Users\Abdul Sittar\Conda\Git\flask-argon-dashboard-master\app\home\templates\static\data" />
     </key>
   </component>
   <component name="RunManager">
