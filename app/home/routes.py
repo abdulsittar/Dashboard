@@ -166,11 +166,6 @@ def aboutus():
     return render_template("pages/aboutus.html")
 
 
-@blueprint.route('/icons', methods=['GET', 'POST'])
-def icons():
-    return render_template("pages/wordTrends.html")
-
-
 @blueprint.route('/dashapp1')
 def dashapp1():
     return redirect(url_for('DashExample_blueprint.app1_template'))
@@ -220,7 +215,6 @@ def upload_dataset():
 def add_word_trends():
     city_news = request.args['city_news']
     wd_list = request.args['wd_list']
-    print(word_corpus)
     graphJSON = create_bar_plot(city_news, wd_list)
 
     return graphJSON
@@ -479,13 +473,10 @@ def add_topic_modeling():
 
     if dataset == 'olympics' and os.path.exists('data/topic_models/%s_%s_%s.html' % (site, city, num_k)):
         lda_html = open('data/topic_models/%s_%s_%s.html' % (site, city, num_k), 'r', encoding='utf-8').read()
-        # pickle_mod = pickle.load(open('data/topic_models/%s_%s_%s.pkl' % (site, city, num_k), 'rb'))
-        # topic_model, corpus = pickle_mod['model'], pickle_mod['corpus']
 
     elif dataset == 'euro' and os.path.exists('data/topic_models/%s_%s.html' % (site, num_k)):
         lda_html = open('data/topic_models/%s_%s.html' % (site, num_k), 'r', encoding='utf-8').read()
-        # pickle_mod = pickle.load(open('data/topic_models/%s_%s.pkl' % (site, num_k), 'rb'))
-        # topic_model, corpus = pickle_mod['model'], pickle_mod['corpus']
+
 
     else:
         if lang_dict[site] == 'en':
@@ -593,7 +584,6 @@ def add_topic_docs():
 
     for tpc in range(0, int(max(year_tpc_assign['topic'])) + 1):
         sub_assign_tpc = year_tpc_assign[year_tpc_assign['topic'].apply(lambda tp: int(tp) == tpc)]
-        print(sub_assign_tpc)
         for i, row in sub_assign_tpc.iterrows():
             table_items.append(
                 Item(news_site, row[3].split('_')[1], int(tpc) + 1, round(float(row[1]), 4), row[2], row[4]))
