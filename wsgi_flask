@@ -1,0 +1,26 @@
+from werkzeug.middleware.dispatcher import DispatcherMiddleware
+from werkzeug.serving import run_simple
+import os
+import sys
+
+from configs.config import config_dict
+get_config_mode = os.environ.get('GENTELELLA_CONFIG_MODE', 'Debug')
+from werkzeug.serving import run_simple
+from werkzeug.middleware.dispatcher import DispatcherMiddleware
+
+try:
+    config_mode = config_dict[get_config_mode.capitalize()]
+except KeyError:
+    sys.exit('Error: Invalid GENTELELLA_CONFIG_MODE environment variable entry.')
+
+from app import create_app as app_frontend_create_app
+frontend = app_frontend_create_app(config_mode)
+
+#def test_example(base_url):
+#    assert 200 == urllib2.urlopen(base_url).getcode()
+
+if __name__ == '__main__':
+    run_simple('localhost', 5000, frontend, use_reloader=True, use_debugger=True, use_evalex=True)
+
+
+

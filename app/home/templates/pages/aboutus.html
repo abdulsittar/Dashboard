@@ -17,8 +17,8 @@ html {
 }
 
 .column {
-  float: left;
-  width: 25%;
+  float: right;
+  width: 20%;
   height: 300;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -37,7 +37,7 @@ html {
 }
 
 .container {
-  padding: 0 16px;
+  padding: 30 16px;
 }
 
 .container::after, .row::after {
@@ -60,7 +60,6 @@ html {
   text-align: center;
   cursor: pointer;
   width: 100%;
-
 }
 
 .button:hover {
@@ -73,35 +72,33 @@ html {
     display: block;
   }
 }
-</style>
-  <script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
+
+</style><script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="{{ url_for('static', filename='js/plots.js') }}"></script>
 <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
-<script type="text/javascript">
-    Bokeh.set_log_level("info");
-</script>
+<script type="text/javascript">Bokeh.set_log_level("info");</script>
 </head>
-<body>
 
-<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+<body>
       <div class="container-fluid">
         <div class="header-body">
 <div class="about-section header bg-gradient-success pb-4 pt-2 pt-md-6">
   <h1>About Us</h1>
   <p>WP6: Event-centric cross-lingual analytics and cross-cultural studies.</p>
-  <p>Objectives:Facilitate analytics of multilingual event-centric information and cross-cultural studies through leveraging crosslingual
+  <p>Objectives:Facilitate analytics of multilingual event-centric information <br>
+    and cross-cultural studies through leveraging crosslingual <br>
 information processing and novel user access methods</p>
 </div>
 
 <h2 style="text-align:center">Our Team</h2>
 
 
-<div class="row" width=80% float:right>
+<div  style="width=80%; align=right;">
   <div class="column">
     <div class="card">
-      <img src="/static/assets/img/profileimages/C.jpg" alt="Caio" style="width:100%" width=auto height=auto>
+      <img src="/static/assets/profileimages/C.jpg" alt="Caio" style="width:100%" width=auto height=auto>
       <div class="container">
         <h2>ESR 10 : Caio Mello</h2>
         <p class="title">UoL</p>
@@ -114,7 +111,7 @@ information processing and novel user access methods</p>
 
   <div class="column">
     <div class="card">
-      <img src="/static/assets/img/profileimages/G.jpg" alt="Gullal" style="width:100%" width=auto height=auto>
+      <img src="/static/assets/profileimages/G.jpg" alt="Gullal" style="width:100%" width=auto height=auto>
       <div class="container">
         <h2>ESR 7 : Gullal Singh Cheema</h2>
         <p class="title">TIB</p>
@@ -124,10 +121,21 @@ information processing and novel user access methods</p>
       </div>
     </div>
   </div>
-  
   <div class="column">
     <div class="card">
-      <img src="/static/assets/img/profileimages/D.jpg" alt="Denialla" style="width:100%" width=auto height=auto>
+      <img src="/static/assets/profileimages/AS.jpg" alt="Abdul Sittar" style="width:100%" width=auto height=auto>
+      <div class="container">
+        <h2>ESR 12 : Abdul Sittar</h2>
+        <p class="title">JSI</p>
+        <p>Model the phenomenon of information propagation within the dynamic network of interconnected events. In other words, the objective is to model the characteristics of information spreading once a physical event happens somewhere in the world.</p>
+        <p>abdul.sittar@ijs.si</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="/static/assets/profileimages/D.jpg" alt="Denialla" style="width:100%" width=auto height=auto>
       <div class="container">
         <h2>ESR 9: Daniela Major</h2>
         <p class="title">UoL</p>
@@ -138,24 +146,12 @@ information processing and novel user access methods</p>
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <img src="/static/assets/img/profileimages/AS.jpg" alt="Abdul Sittar" style="width:100%" width=auto height=auto>
-      <div class="container">
-        <h2>ESR 12 : Abdul Sittar</h2>
-        <p class="title">JSI</p>
-        <p>Model the phenomenon of information propagation within the dynamic network of interconnected events. In other words, the objective is to model the characteristics of information spreading once a physical event happens somewhere in the world.</p>
-        <p>abdul.sittar@ijs.si</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
+
 
 </div>
           </div>
         </div>
 
-</div>
 <!-- Header -->
 {% include 'includes/header.html' %}
 <div class="container-fluid">

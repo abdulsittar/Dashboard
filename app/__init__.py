@@ -32,6 +32,7 @@ bc = Bcrypt()
 
 
 def apply_themes(app):
+
     """
     Add support for themes.
 
@@ -80,3 +81,5 @@ def create_app(config, selenium=False):
     # apply_themes(app)
     app = Dash_App1.add_dash(app)
     return app
+
+

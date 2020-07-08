@@ -1,0 +1,9101 @@
+{
+ "links": [
+  {
+   "source": 1,
+   "target": 777,
+   "value": 0.284
+  },
+  {
+   "source": 2,
+   "target": 23,
+   "value": 0.386
+  },
+  {
+   "source": 3,
+   "target": 989,
+   "value": 0.353
+  },
+  {
+   "source": 4,
+   "target": 554,
+   "value": 0.395
+  },
+  {
+   "source": 5,
+   "target": 766,
+   "value": 0.23
+  },
+  {
+   "source": 6,
+   "target": 4,
+   "value": 0.9640000000000001
+  },
+  {
+   "source": 7,
+   "target": 12,
+   "value": 0.929
+  },
+  {
+   "source": 8,
+   "target": 23,
+   "value": 0.48200000000000004
+  },
+  {
+   "source": 9,
+   "target": 929,
+   "value": 0.316
+  },
+  {
+   "source": 10,
+   "target": 7,
+   "value": 0.975
+  },
+  {
+   "source": 11,
+   "target": 988,
+   "value": 0.972
+  },
+  {
+   "source": 12,
+   "target": 333,
+   "value": 0.24600000000000002
+  },
+  {
+   "source": 13,
+   "target": 824,
+   "value": 0.293
+  },
+  {
+   "source": 14,
+   "target": 929,
+   "value": 0.314
+  },
+  {
+   "source": 15,
+   "target": 14,
+   "value": 0.9620000000000001
+  },
+  {
+   "source": 16,
+   "target": 10,
+   "value": 0.995
+  },
+  {
+   "source": 17,
+   "target": 6,
+   "value": 0.245
+  },
+  {
+   "source": 18,
+   "target": 665,
+   "value": 0.31
+  },
+  {
+   "source": 19,
+   "target": 477,
+   "value": 0.315
+  },
+  {
+   "source": 20,
+   "target": 56,
+   "value": 0.8190000000000001
+  },
+  {
+   "source": 21,
+   "target": 22,
+   "value": 1.0
+  },
+  {
+   "source": 22,
+   "target": 21,
+   "value": 1.0
+  },
+  {
+   "source": 23,
+   "target": 888,
+   "value": 0.226
+  },
+  {
+   "source": 24,
+   "target": 871,
+   "value": 0.299
+  },
+  {
+   "source": 25,
+   "target": 10,
+   "value": 1.0
+  },
+  {
+   "source": 26,
+   "target": 2,
+   "value": 0.276
+  },
+  {
+   "source": 27,
+   "target": 16,
+   "value": 0.991
+  },
+  {
+   "source": 28,
+   "target": 56,
+   "value": 1.0
+  },
+  {
+   "source": 29,
+   "target": 7,
+   "value": 0.96
+  },
+  {
+   "source": 30,
+   "target": 27,
+   "value": 0.9570000000000001
+  },
+  {
+   "source": 31,
+   "target": 28,
+   "value": 1.0
+  },
+  {
+   "source": 32,
+   "target": 16,
+   "value": 1.0
+  },
+  {
+   "source": 33,
+   "target": 34,
+   "value": 0.9309999999999999
+  },
+  {
+   "source": 34,
+   "target": 12,
+   "value": 0.46399999999999997
+  },
+  {
+   "source": 35,
+   "target": 554,
+   "value": 0.293
+  },
+  {
+   "source": 36,
+   "target": 477,
+   "value": 0.392
+  },
+  {
+   "source": 37,
+   "target": 45,
+   "value": 0.998
+  },
+  {
+   "source": 38,
+   "target": 39,
+   "value": 1.0
+  },
+  {
+   "source": 39,
+   "target": 25,
+   "value": 1.0
+  },
+  {
+   "source": 40,
+   "target": 41,
+   "value": 0.993
+  },
+  {
+   "source": 41,
+   "target": 31,
+   "value": 1.0
+  },
+  {
+   "source": 42,
+   "target": 43,
+   "value": 1.0
+  },
+  {
+   "source": 43,
+   "target": 42,
+   "value": 1.0
+  },
+  {
+   "source": 44,
+   "target": 37,
+   "value": 1.0
+  },
+  {
+   "source": 45,
+   "target": 34,
+   "value": 0.82
+  },
+  {
+   "source": 46,
+   "target": 929,
+   "value": 0.361
+  },
+  {
+   "source": 47,
+   "target": 887,
+   "value": 0.21899999999999997
+  },
+  {
+   "source": 48,
+   "target": 37,
+   "value": 1.0
+  },
+  {
+   "source": 49,
+   "target": 56,
+   "value": 1.0
+  },
+  {
+   "source": 50,
+   "target": 33,
+   "value": 1.0
+  },
+  {
+   "source": 51,
+   "target": 640,
+   "value": 0.287
+  },
+  {
+   "source": 52,
+   "target": 48,
+   "value": 1.0
+  },
+  {
+   "source": 53,
+   "target": 41,
+   "value": 1.0
+  },
+  {
+   "source": 54,
+   "target": 45,
+   "value": 1.0
+  },
+  {
+   "source": 55,
+   "target": 49,
+   "value": 0.6970000000000001
+  },
+  {
+   "source": 56,
+   "target": 45,
+   "value": 0.99
+  },
+  {
+   "source": 57,
+   "target": 261,
+   "value": 0.226
+  },
+  {
+   "source": 58,
+   "target": 56,
+   "value": 1.0
+  },
+  {
+   "source": 59,
+   "target": 36,
+   "value": 0.39299999999999996
+  },
+  {
+   "source": 60,
+   "target": 645,
+   "value": 0.242
+  },
+  {
+   "source": 61,
+   "target": 58,
+   "value": 1.0
+  },
+  {
+   "source": 62,
+   "target": 28,
+   "value": 1.0
+  },
+  {
+   "source": 63,
+   "target": 915,
+   "value": 0.261
+  },
+  {
+   "source": 64,
+   "target": 41,
+   "value": 1.0
+  },
+  {
+   "source": 65,
+   "target": 643,
+   "value": 0.248
+  },
+  {
+   "source": 66,
+   "target": 6,
+   "value": 0.268
+  },
+  {
+   "source": 67,
+   "target": 777,
+   "value": 0.27
+  },
+  {
+   "source": 68,
+   "target": 730,
+   "value": 0.27
+  },
+  {
+   "source": 69,
+   "target": 67,
+   "value": 0.302
+  },
+  {
+   "source": 70,
+   "target": 871,
+   "value": 0.35600000000000004
+  },
+  {
+   "source": 71,
+   "target": 554,
+   "value": 0.424
+  },
+  {
+   "source": 72,
+   "target": 89,
+   "value": 0.968
+  },
+  {
+   "source": 73,
+   "target": 261,
+   "value": 0.225
+  },
+  {
+   "source": 74,
+   "target": 73,
+   "value": 0.20800000000000002
+  },
+  {
+   "source": 75,
+   "target": 665,
+   "value": 0.258
+  },
+  {
+   "source": 76,
+   "target": 67,
+   "value": 0.322
+  },
+  {
+   "source": 77,
+   "target": 554,
+   "value": 0.331
+  },
+  {
+   "source": 78,
+   "target": 777,
+   "value": 0.262
+  },
+  {
+   "source": 79,
+   "target": 554,
+   "value": 0.364
+  },
+  {
+   "source": 80,
+   "target": 67,
+   "value": 1.0
+  },
+  {
+   "source": 81,
+   "target": 80,
+   "value": 0.40299999999999997
+  },
+  {
+   "source": 82,
+   "target": 613,
+   "value": 0.196
+  },
+  {
+   "source": 83,
+   "target": 915,
+   "value": 0.315
+  },
+  {
+   "source": 84,
+   "target": 665,
+   "value": 0.257
+  },
+  {
+   "source": 85,
+   "target": 393,
+   "value": 0.33399999999999996
+  },
+  {
+   "source": 86,
+   "target": 665,
+   "value": 0.302
+  },
+  {
+   "source": 87,
+   "target": 477,
+   "value": 0.332
+  },
+  {
+   "source": 88,
+   "target": 81,
+   "value": 1.0
+  },
+  {
+   "source": 89,
+   "target": 67,
+   "value": 0.325
+  },
+  {
+   "source": 90,
+   "target": 301,
+   "value": 0.956
+  },
+  {
+   "source": 91,
+   "target": 261,
+   "value": 0.272
+  },
+  {
+   "source": 92,
+   "target": 93,
+   "value": 1.0
+  },
+  {
+   "source": 93,
+   "target": 92,
+   "value": 1.0
+  },
+  {
+   "source": 94,
+   "target": 777,
+   "value": 0.38
+  },
+  {
+   "source": 95,
+   "target": 93,
+   "value": 1.0
+  },
+  {
+   "source": 96,
+   "target": 93,
+   "value": 0.9890000000000001
+  },
+  {
+   "source": 97,
+   "target": 477,
+   "value": 0.256
+  },
+  {
+   "source": 98,
+   "target": 777,
+   "value": 0.308
+  },
+  {
+   "source": 99,
+   "target": 96,
+   "value": 0.9309999999999999
+  },
+  {
+   "source": 100,
+   "target": 777,
+   "value": 0.228
+  },
+  {
+   "source": 101,
+   "target": 777,
+   "value": 0.273
+  },
+  {
+   "source": 102,
+   "target": 314,
+   "value": 0.319
+  },
+  {
+   "source": 103,
+   "target": 104,
+   "value": 1.0
+  },
+  {
+   "source": 104,
+   "target": 103,
+   "value": 1.0
+  },
+  {
+   "source": 105,
+   "target": 106,
+   "value": 1.0
+  },
+  {
+   "source": 106,
+   "target": 105,
+   "value": 1.0
+  },
+  {
+   "source": 107,
+   "target": 554,
+   "value": 0.387
+  },
+  {
+   "source": 125,
+   "target": 554,
+   "value": 0.267
+  },
+  {
+   "source": 126,
+   "target": 123,
+   "value": 1.0
+  },
+  {
+   "source": 127,
+   "target": 617,
+   "value": 0.193
+  },
+  {
+   "source": 128,
+   "target": 126,
+   "value": 1.0
+  },
+  {
+   "source": 129,
+   "target": 118,
+   "value": 1.0
+  },
+  {
+   "source": 130,
+   "target": 620,
+   "value": 0.28600000000000003
+  },
+  {
+   "source": 131,
+   "target": 554,
+   "value": 0.332
+  },
+  {
+   "source": 132,
+   "target": 554,
+   "value": 0.382
+  },
+  {
+   "source": 133,
+   "target": 929,
+   "value": 0.28600000000000003
+  },
+  {
+   "source": 134,
+   "target": 888,
+   "value": 0.309
+  },
+  {
+   "source": 135,
+   "target": 411,
+   "value": 1.0
+  },
+  {
+   "source": 136,
+   "target": 554,
+   "value": 0.309
+  },
+  {
+   "source": 137,
+   "target": 4,
+   "value": 0.179
+  },
+  {
+   "source": 138,
+   "target": 59,
+   "value": 0.183
+  },
+  {
+   "source": 139,
+   "target": 477,
+   "value": 0.28300000000000003
+  },
+  {
+   "source": 140,
+   "target": 929,
+   "value": 0.287
+  },
+  {
+   "source": 141,
+   "target": 138,
+   "value": 0.529
+  },
+  {
+   "source": 142,
+   "target": 477,
+   "value": 0.301
+  },
+  {
+   "source": 143,
+   "target": 554,
+   "value": 0.32
+  },
+  {
+   "source": 154,
+   "target": 153,
+   "value": 0.938
+  },
+  {
+   "source": 155,
+   "target": 154,
+   "value": 0.9309999999999999
+  },
+  {
+   "source": 156,
+   "target": 777,
+   "value": 0.29600000000000004
+  },
+  {
+   "source": 157,
+   "target": 6,
+   "value": 0.33899999999999997
+  },
+  {
+   "source": 158,
+   "target": 477,
+   "value": 0.268
+  },
+  {
+   "source": 159,
+   "target": 150,
+   "value": 1.0
+  },
+  {
+   "source": 160,
+   "target": 159,
+   "value": 0.966
+  },
+  {
+   "source": 161,
+   "target": 666,
+   "value": 0.133
+  },
+  {
+   "source": 162,
+   "target": 554,
+   "value": 0.386
+  },
+  {
+   "source": 163,
+   "target": 261,
+   "value": 0.36200000000000004
+  },
+  {
+   "source": 164,
+   "target": 871,
+   "value": 0.233
+  },
+  {
+   "source": 165,
+   "target": 584,
+   "value": 0.22899999999999998
+  },
+  {
+   "source": 166,
+   "target": 261,
+   "value": 0.301
+  },
+  {
+   "source": 167,
+   "target": 777,
+   "value": 0.284
+  },
+  {
+   "source": 168,
+   "target": 554,
+   "value": 0.377
+  },
+  {
+   "source": 169,
+   "target": 871,
+   "value": 0.20600000000000002
+  },
+  {
+   "source": 170,
+   "target": 554,
+   "value": 0.24100000000000002
+  },
+  {
+   "source": 171,
+   "target": 117,
+   "value": 0.262
+  },
+  {
+   "source": 172,
+   "target": 170,
+   "value": 1.0
+  },
+  {
+   "source": 173,
+   "target": 171,
+   "value": 0.857
+  },
+  {
+   "source": 174,
+   "target": 855,
+   "value": 0.252
+  },
+  {
+   "source": 175,
+   "target": 665,
+   "value": 0.12
+  },
+  {
+   "source": 176,
+   "target": 255,
+   "value": 0.313
+  },
+  {
+   "source": 177,
+   "target": 145,
+   "value": 0.807
+  },
+  {
+   "source": 191,
+   "target": 261,
+   "value": 0.239
+  },
+  {
+   "source": 192,
+   "target": 6,
+   "value": 0.245
+  },
+  {
+   "source": 193,
+   "target": 191,
+   "value": 0.983
+  },
+  {
+   "source": 194,
+   "target": 477,
+   "value": 0.363
+  },
+  {
+   "source": 195,
+   "target": 929,
+   "value": 0.336
+  },
+  {
+   "source": 196,
+   "target": 645,
+   "value": 0.22
+  },
+  {
+   "source": 197,
+   "target": 929,
+   "value": 0.342
+  },
+  {
+   "source": 198,
+   "target": 211,
+   "value": 1.0
+  },
+  {
+   "source": 199,
+   "target": 102,
+   "value": 0.52
+  },
+  {
+   "source": 200,
+   "target": 888,
+   "value": 0.27899999999999997
+  },
+  {
+   "source": 201,
+   "target": 13,
+   "value": 1.0
+  },
+  {
+   "source": 202,
+   "target": 222,
+   "value": 0.595
+  },
+  {
+   "source": 203,
+   "target": 246,
+   "value": 0.337
+  },
+  {
+   "source": 204,
+   "target": 177,
+   "value": 0.344
+  },
+  {
+   "source": 205,
+   "target": 620,
+   "value": 0.342
+  },
+  {
+   "source": 206,
+   "target": 6,
+   "value": 0.24100000000000002
+  },
+  {
+   "source": 207,
+   "target": 554,
+   "value": 0.32799999999999996
+  },
+  {
+   "source": 208,
+   "target": 176,
+   "value": 0.9279999999999999
+  },
+  {
+   "source": 209,
+   "target": 554,
+   "value": 0.318
+  },
+  {
+   "source": 210,
+   "target": 180,
+   "value": 0.833
+  },
+  {
+   "source": 211,
+   "target": 145,
+   "value": 1.0
+  },
+  {
+   "source": 230,
+   "target": 584,
+   "value": 0.247
+  },
+  {
+   "source": 231,
+   "target": 665,
+   "value": 0.302
+  },
+  {
+   "source": 232,
+   "target": 227,
+   "value": 0.958
+  },
+  {
+   "source": 233,
+   "target": 227,
+   "value": 0.977
+  },
+  {
+   "source": 234,
+   "target": 777,
+   "value": 0.305
+  },
+  {
+   "source": 235,
+   "target": 411,
+   "value": 0.71
+  },
+  {
+   "source": 236,
+   "target": 554,
+   "value": 0.268
+  },
+  {
+   "source": 237,
+   "target": 951,
+   "value": 0.27699999999999997
+  },
+  {
+   "source": 238,
+   "target": 871,
+   "value": 0.392
+  },
+  {
+   "source": 239,
+   "target": 579,
+   "value": 0.266
+  },
+  {
+   "source": 240,
+   "target": 929,
+   "value": 0.237
+  },
+  {
+   "source": 241,
+   "target": 598,
+   "value": 0.187
+  },
+  {
+   "source": 242,
+   "target": 929,
+   "value": 0.26899999999999996
+  },
+  {
+   "source": 243,
+   "target": 620,
+   "value": 0.204
+  },
+  {
+   "source": 244,
+   "target": 241,
+   "value": 0.89
+  },
+  {
+   "source": 245,
+   "target": 333,
+   "value": 0.262
+  },
+  {
+   "source": 246,
+   "target": 777,
+   "value": 0.429
+  },
+  {
+   "source": 247,
+   "target": 244,
+   "value": 1.0
+  },
+  {
+   "source": 248,
+   "target": 554,
+   "value": 0.312
+  },
+  {
+   "source": 249,
+   "target": 775,
+   "value": 0.17600000000000002
+  },
+  {
+   "source": 250,
+   "target": 888,
+   "value": 0.235
+  },
+  {
+   "source": 251,
+   "target": 887,
+   "value": 0.316
+  },
+  {
+   "source": 252,
+   "target": 253,
+   "value": 0.9129999999999999
+  },
+  {
+   "source": 253,
+   "target": 250,
+   "value": 0.988
+  },
+  {
+   "source": 254,
+   "target": 915,
+   "value": 0.37799999999999995
+  },
+  {
+   "source": 255,
+   "target": 554,
+   "value": 0.39
+  },
+  {
+   "source": 256,
+   "target": 777,
+   "value": 0.29100000000000004
+  },
+  {
+   "source": 257,
+   "target": 888,
+   "value": 0.284
+  },
+  {
+   "source": 258,
+   "target": 267,
+   "value": 0.853
+  },
+  {
+   "source": 259,
+   "target": 350,
+   "value": 0.21100000000000002
+  },
+  {
+   "source": 260,
+   "target": 259,
+   "value": 0.8490000000000001
+  },
+  {
+   "source": 261,
+   "target": 554,
+   "value": 0.39899999999999997
+  },
+  {
+   "source": 262,
+   "target": 259,
+   "value": 0.8009999999999999
+  },
+  {
+   "source": 263,
+   "target": 258,
+   "value": 0.946
+  },
+  {
+   "source": 264,
+   "target": 259,
+   "value": 0.915
+  },
+  {
+   "source": 265,
+   "target": 433,
+   "value": 0.259
+  },
+  {
+   "source": 266,
+   "target": 871,
+   "value": 0.222
+  },
+  {
+   "source": 267,
+   "target": 777,
+   "value": 0.23800000000000002
+  },
+  {
+   "source": 268,
+   "target": 871,
+   "value": 0.371
+  },
+  {
+   "source": 269,
+   "target": 929,
+   "value": 0.312
+  },
+  {
+   "source": 270,
+   "target": 267,
+   "value": 0.9009999999999999
+  },
+  {
+   "source": 271,
+   "target": 929,
+   "value": 0.27899999999999997
+  },
+  {
+   "source": 272,
+   "target": 267,
+   "value": 0.956
+  },
+  {
+   "source": 273,
+   "target": 871,
+   "value": 0.33899999999999997
+  },
+  {
+   "source": 274,
+   "target": 261,
+   "value": 0.24
+  },
+  {
+   "source": 275,
+   "target": 554,
+   "value": 0.375
+  },
+  {
+   "source": 276,
+   "target": 554,
+   "value": 0.31
+  },
+  {
+   "source": 277,
+   "target": 477,
+   "value": 0.315
+  },
+  {
+   "source": 278,
+   "target": 777,
+   "value": 0.309
+  },
+  {
+   "source": 279,
+   "target": 888,
+   "value": 0.231
+  },
+  {
+   "source": 280,
+   "target": 230,
+   "value": 0.812
+  },
+  {
+   "source": 281,
+   "target": 554,
+   "value": 0.287
+  },
+  {
+   "source": 282,
+   "target": 477,
+   "value": 0.32299999999999995
+  },
+  {
+   "source": 283,
+   "target": 929,
+   "value": 0.22
+  },
+  {
+   "source": 284,
+   "target": 477,
+   "value": 0.28600000000000003
+  },
+  {
+   "source": 285,
+   "target": 289,
+   "value": 1.0
+  },
+  {
+   "source": 286,
+   "target": 285,
+   "value": 1.0
+  },
+  {
+   "source": 287,
+   "target": 285,
+   "value": 1.0
+  },
+  {
+   "source": 288,
+   "target": 285,
+   "value": 1.0
+  },
+  {
+   "source": 289,
+   "target": 888,
+   "value": 0.217
+  },
+  {
+   "source": 290,
+   "target": 842,
+   "value": 0.20600000000000002
+  },
+  {
+   "source": 291,
+   "target": 289,
+   "value": 1.0
+  },
+  {
+   "source": 292,
+   "target": 635,
+   "value": 0.28300000000000003
+  },
+  {
+   "source": 293,
+   "target": 456,
+   "value": 0.252
+  },
+  {
+   "source": 294,
+   "target": 929,
+   "value": 0.359
+  },
+  {
+   "source": 295,
+   "target": 554,
+   "value": 0.387
+  },
+  {
+   "source": 296,
+   "target": 477,
+   "value": 0.344
+  },
+  {
+   "source": 368,
+   "target": 929,
+   "value": 0.29
+  },
+  {
+   "source": 369,
+   "target": 871,
+   "value": 0.38
+  },
+  {
+   "source": 370,
+   "target": 777,
+   "value": 0.214
+  },
+  {
+   "source": 371,
+   "target": 554,
+   "value": 0.39299999999999996
+  },
+  {
+   "source": 372,
+   "target": 554,
+   "value": 0.387
+  },
+  {
+   "source": 373,
+   "target": 554,
+   "value": 0.35200000000000004
+  },
+  {
+   "source": 374,
+   "target": 373,
+   "value": 1.0
+  },
+  {
+   "source": 375,
+   "target": 871,
+   "value": 0.29
+  },
+  {
+   "source": 376,
+   "target": 871,
+   "value": 0.261
+  },
+  {
+   "source": 377,
+   "target": 777,
+   "value": 0.391
+  },
+  {
+   "source": 378,
+   "target": 777,
+   "value": 0.247
+  },
+  {
+   "source": 379,
+   "target": 368,
+   "value": 0.9690000000000001
+  },
+  {
+   "source": 380,
+   "target": 368,
+   "value": 0.851
+  },
+  {
+   "source": 381,
+   "target": 380,
+   "value": 1.0
+  },
+  {
+   "source": 382,
+   "target": 361,
+   "value": 0.93
+  },
+  {
+   "source": 383,
+   "target": 368,
+   "value": 0.98
+  },
+  {
+   "source": 384,
+   "target": 554,
+   "value": 0.184
+  },
+  {
+   "source": 385,
+   "target": 380,
+   "value": 0.725
+  },
+  {
+   "source": 386,
+   "target": 380,
+   "value": 1.0
+  },
+  {
+   "source": 387,
+   "target": 368,
+   "value": 1.0
+  },
+  {
+   "source": 388,
+   "target": 929,
+   "value": 0.299
+  },
+  {
+   "source": 389,
+   "target": 400,
+   "value": 0.922
+  },
+  {
+   "source": 390,
+   "target": 777,
+   "value": 0.27899999999999997
+  },
+  {
+   "source": 391,
+   "target": 477,
+   "value": 0.275
+  },
+  {
+   "source": 392,
+   "target": 554,
+   "value": 0.335
+  }
+ ],
+ "nodes": [
+  {
+   "group": 1,
+   "name": "Global_Warming_English0"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English1"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English2"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English3"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English4"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English5"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English6"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English7"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English8"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English9"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English10"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English11"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English12"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English13"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English14"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English15"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English16"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English17"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English18"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English19"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English20"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English21"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English22"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English23"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English24"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English25"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English26"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English27"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English28"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English29"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English30"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English31"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English32"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English33"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English34"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English35"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English36"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English37"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English38"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English39"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English40"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English41"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English42"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English43"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English44"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English45"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English46"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English47"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English48"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English49"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English50"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English51"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English52"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English53"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English54"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English55"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English56"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English57"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English58"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English59"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English60"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English61"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English62"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English63"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English64"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English65"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English66"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English67"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English68"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English69"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English70"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English71"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English72"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English73"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English74"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English75"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English76"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English77"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English78"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English79"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English80"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English81"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English82"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English83"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English84"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English85"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English86"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English87"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English88"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English89"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English90"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English91"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English92"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English93"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English94"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English95"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English96"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English97"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English98"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English99"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English100"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English101"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English102"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English103"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English104"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English105"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English106"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English107"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English108"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English109"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English110"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English111"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English112"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English113"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English114"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English115"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English116"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English117"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English118"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English119"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English120"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English121"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English122"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English123"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English124"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English125"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English126"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English127"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English128"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English129"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English130"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English131"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English132"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English133"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English134"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English135"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English136"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English137"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English138"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English139"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English140"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English141"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English142"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English143"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English144"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English145"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English146"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English147"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English148"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English149"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English150"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English151"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English152"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English153"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English154"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English155"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English156"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English157"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English158"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English159"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English160"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English161"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English162"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English163"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English164"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English165"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English166"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English167"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English168"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English169"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English170"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English171"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English172"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English173"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English174"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English175"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English176"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English177"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English178"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English179"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English180"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English181"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English182"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English183"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English184"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English185"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English186"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English187"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English188"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English189"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English190"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English191"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English192"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English193"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English194"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English195"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English196"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English197"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English198"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English199"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English200"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English201"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English202"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English203"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English204"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English205"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English206"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English207"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English208"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English209"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English210"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English211"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English212"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English213"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English214"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English215"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English216"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English217"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English218"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English219"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English220"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English221"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English222"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English223"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English224"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English225"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English226"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English227"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English228"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English229"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English230"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English231"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English232"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English233"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English234"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English235"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English236"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English237"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English238"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English239"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English240"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English241"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English242"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English243"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English244"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English245"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English246"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English247"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English248"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English249"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English250"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English251"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English252"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English253"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English254"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English255"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English256"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English257"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English258"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English259"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English260"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English261"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English262"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English263"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English264"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English265"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English266"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English267"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English268"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English269"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English270"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English271"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English272"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English273"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English274"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English275"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English276"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English277"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English278"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English279"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English280"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English281"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English282"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English283"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English284"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English285"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English286"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English287"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English288"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English289"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English290"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English291"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English292"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English293"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English294"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English295"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English296"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English297"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English298"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English299"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English300"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English301"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English302"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English303"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English304"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English305"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English306"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English307"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English308"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English309"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English310"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English311"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English312"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English313"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English314"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English315"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English316"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English317"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English318"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English319"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English320"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English321"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English322"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English323"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English324"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English325"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English326"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English327"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English328"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English329"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English330"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English331"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English332"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English333"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English334"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English335"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English336"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English337"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English338"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English339"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English340"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English341"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English342"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English343"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English344"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English345"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English346"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English347"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English348"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English349"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English350"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English351"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English352"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English353"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English354"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English355"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English356"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English357"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English358"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English359"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English360"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English361"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English362"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English363"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English364"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English365"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English366"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English367"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English368"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English369"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English370"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English371"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English372"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English373"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English374"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English375"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English376"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English377"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English378"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English379"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English380"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English381"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English382"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English383"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English384"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English385"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English386"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English387"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English388"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English389"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English390"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English391"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English392"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English393"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English394"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English395"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English396"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English397"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English398"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English399"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English400"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English401"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English402"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English403"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English404"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English405"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English406"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English407"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English408"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English409"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English410"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English411"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English412"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English413"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English414"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English415"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English416"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English417"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English418"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English419"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English420"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English421"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English422"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English423"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English424"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English425"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English426"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English427"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English428"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English429"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English430"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English431"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English432"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English433"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English434"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English435"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English436"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English437"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English438"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English439"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English440"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English441"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English442"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English443"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English444"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English445"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English446"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English447"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English448"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English449"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English450"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English451"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English452"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English453"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English454"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English455"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English456"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English457"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English458"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English459"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English460"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English461"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English462"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English463"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English464"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English465"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English466"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English467"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English468"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English469"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English470"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English471"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English472"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English473"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English474"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English475"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English476"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English477"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English478"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English479"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English480"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English481"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English482"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English483"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English484"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English485"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English486"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English487"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English488"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English489"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English490"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English491"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English492"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English493"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English494"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English495"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English496"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English497"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English498"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English499"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English500"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English501"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English502"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English503"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English504"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English505"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English506"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English507"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English508"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English509"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English510"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English511"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English512"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English513"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English514"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English515"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English516"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English517"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English518"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English519"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English520"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English521"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English522"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English523"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English524"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English525"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English526"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English527"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English528"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English529"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English530"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English531"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English532"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English533"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English534"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English535"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English536"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English537"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English538"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English539"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English540"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English541"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English542"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English543"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English544"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English545"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English546"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English547"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English548"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English549"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English550"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English551"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English552"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English553"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English554"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English555"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English556"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English557"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English558"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English559"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English560"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English561"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English562"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English563"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English564"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English565"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English566"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English567"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English568"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English569"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English570"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English571"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English572"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English573"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English574"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English575"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English576"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English577"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English578"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English579"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English580"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English581"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English582"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English583"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English584"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English585"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English586"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English587"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English588"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English589"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English590"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English591"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English592"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English593"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English594"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English595"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English596"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English597"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English598"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English599"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English600"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English601"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English602"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English603"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English604"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English605"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English606"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English607"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English608"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English609"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English610"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English611"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English612"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English613"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English614"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English615"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English616"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English617"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English618"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English619"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English620"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English621"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English622"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English623"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English624"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English625"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English626"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English627"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English628"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English629"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English630"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English631"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English632"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English633"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English634"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English635"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English636"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English637"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English638"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English639"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English640"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English641"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English642"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English643"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English644"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English645"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English646"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English647"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English648"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English649"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English650"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English651"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English652"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English653"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English654"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English655"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English656"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English657"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English658"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English659"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English660"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English661"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English662"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English663"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English664"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English665"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English666"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English667"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English668"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English669"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English670"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English671"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English672"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English673"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English674"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English675"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English676"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English677"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English678"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English679"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English680"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English681"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English682"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English683"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English684"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English685"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English686"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English687"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English688"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English689"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English690"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English691"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English692"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English693"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English694"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English695"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English696"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English697"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English698"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English699"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English700"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English701"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English702"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English703"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English704"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English705"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English706"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English707"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English708"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English709"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English710"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English711"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English712"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English713"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English714"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English715"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English716"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English717"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English718"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English719"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English720"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English721"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English722"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English723"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English724"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English725"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English726"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English727"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English728"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English729"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English730"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English731"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English732"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English733"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English734"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English735"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English736"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English737"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English738"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English739"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English740"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English741"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English742"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English743"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English744"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English745"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English746"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English747"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English748"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English749"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English750"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English751"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English752"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English753"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English754"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English755"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English756"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English757"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English758"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English759"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English760"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English761"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English762"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English763"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English764"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English765"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English766"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English767"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English768"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English769"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English770"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English771"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English772"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English773"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English774"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English775"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English776"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English777"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English778"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English779"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English780"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English781"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English782"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English783"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English784"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English785"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English786"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English787"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English788"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English789"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English790"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English791"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English792"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English793"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English794"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English795"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English796"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English797"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English798"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English799"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English800"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English801"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English802"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English803"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English804"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English805"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English806"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English807"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English808"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English809"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English810"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English811"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English812"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English813"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English814"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English815"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English816"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English817"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English818"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English819"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English820"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English821"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English822"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English823"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English824"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English825"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English826"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English827"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English828"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English829"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English830"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English831"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English832"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English833"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English834"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English835"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English836"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English837"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English838"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English839"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English840"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English841"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English842"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English843"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English844"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English845"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English846"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English847"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English848"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English849"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English850"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English851"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English852"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English853"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English854"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English855"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English856"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English857"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English858"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English859"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English860"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English861"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English862"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English863"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English864"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English865"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English866"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English867"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English868"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English869"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English870"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English871"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English872"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English873"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English874"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English875"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English876"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English877"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English878"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English879"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English880"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English881"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English882"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English883"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English884"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English885"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English886"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English887"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English888"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English889"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English890"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English891"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English892"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English893"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English894"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English895"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English896"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English897"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English898"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English899"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English900"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English901"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English902"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English903"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English904"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English905"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English906"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English907"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English908"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English909"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English910"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English911"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English912"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English913"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English914"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English915"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English916"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English917"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English918"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English919"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English920"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English921"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English922"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English923"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English924"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English925"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English926"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English927"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English928"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English929"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English930"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English931"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English932"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English933"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English934"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English935"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English936"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English937"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English938"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English939"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English940"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English941"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English942"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English943"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English944"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English945"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English946"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English947"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English948"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English949"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English950"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English951"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English952"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English953"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English954"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English955"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English956"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English957"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English958"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English959"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English960"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English961"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English962"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English963"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English964"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English965"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English966"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English967"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English968"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English969"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English970"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English971"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English972"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English973"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English974"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English975"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English976"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English977"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English978"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English979"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English980"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English981"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English982"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English983"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English984"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English985"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English986"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English987"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English988"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English989"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English990"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English991"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English992"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English993"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English994"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English995"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English996"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English997"
+  },
+  {
+   "group": 1,
+   "name": "Global_Warming_English998"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German999"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1000"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1001"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1002"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1003"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1004"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1005"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1006"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1007"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1008"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1009"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1010"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1011"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1012"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1013"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1014"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1015"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1016"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1017"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1018"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1019"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1020"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1021"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1022"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1023"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1024"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1025"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1026"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1027"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1028"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1029"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1030"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1031"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1032"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1033"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1034"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1035"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1036"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1037"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1038"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1039"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1040"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1041"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1042"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1043"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1044"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1045"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1046"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1047"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1048"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1049"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1050"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1051"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1052"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1053"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1054"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1055"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1056"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1057"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1058"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1059"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1060"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1061"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1062"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1063"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1064"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1065"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1066"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1067"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1068"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1069"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1070"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1071"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1072"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1073"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1074"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1075"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1076"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1077"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1078"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1079"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1080"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1081"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1082"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1083"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1084"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1085"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1086"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1087"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1088"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1089"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1090"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1091"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1092"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1093"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1094"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1095"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1096"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1097"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1098"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1099"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1100"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1101"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1102"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1103"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1104"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1105"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1106"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1107"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1108"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1109"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1110"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1111"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1112"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1113"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1114"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1115"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1116"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1117"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1118"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1119"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1120"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1121"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1122"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1123"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1124"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1125"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1126"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1127"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1128"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1129"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1130"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1131"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1132"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1133"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1134"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1135"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1136"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1137"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1138"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1139"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1140"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1141"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1142"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1143"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1144"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1145"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1146"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1147"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1148"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1149"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1150"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1151"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1152"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1153"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1154"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1155"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1156"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1157"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1158"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1159"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1160"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1161"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1162"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1163"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1164"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1165"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1166"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1167"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1168"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1169"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1170"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1171"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1172"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1173"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1174"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1175"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1176"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1177"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1178"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1179"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1180"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1181"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1182"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1183"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1184"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1185"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1186"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1187"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1188"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1189"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1190"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1191"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1192"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1193"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1194"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1195"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1196"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1197"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1198"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1199"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1200"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1201"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1202"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1203"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1204"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1205"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1206"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1207"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1208"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1209"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1210"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1211"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1212"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1213"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1214"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1215"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1216"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1217"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1218"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1219"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1220"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1221"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1222"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1223"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1224"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1225"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1226"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1227"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1228"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1229"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1230"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1231"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1232"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1233"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1234"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1235"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1236"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1237"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1238"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1239"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1240"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1241"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1242"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1243"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1244"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1245"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1246"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1247"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1248"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1249"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1250"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1251"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1252"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1253"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1254"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1255"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1256"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1257"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1258"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1259"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1260"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1261"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1262"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1263"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1264"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1265"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1266"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1267"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1268"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1269"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1270"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1271"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1272"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1273"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1274"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1275"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1276"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1277"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1278"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1279"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1280"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1281"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1282"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1283"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1284"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1285"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1286"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1287"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1288"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1289"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1290"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1291"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1292"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1293"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1294"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1295"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1296"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1297"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1298"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1299"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1300"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1301"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1302"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1303"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1304"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1305"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1306"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1307"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1308"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1309"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1310"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1311"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1312"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1313"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1314"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1315"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1316"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1317"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1318"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1319"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1320"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1321"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1322"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1323"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1324"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1325"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1326"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1327"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1328"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1329"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1330"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1331"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1332"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1333"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1334"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1335"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1336"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1337"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1338"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1339"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1340"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1341"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1342"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1343"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1344"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1345"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1346"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1347"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1348"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1349"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1350"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1351"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1352"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1353"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1354"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1355"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1356"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1357"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1358"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1359"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1360"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1361"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1362"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1363"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1364"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1365"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1366"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1367"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1368"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1369"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1370"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1371"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1372"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1373"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1374"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1375"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1376"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1377"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1378"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1379"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1380"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1381"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1382"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1383"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1384"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1385"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1386"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1387"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1388"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1389"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1390"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1391"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1392"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1393"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1394"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1395"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1396"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1397"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1398"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1399"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1400"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1401"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1402"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1403"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1404"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1405"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1406"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1407"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1408"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1409"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1410"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1411"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1412"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1413"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1414"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1415"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1416"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1417"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1418"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1419"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1420"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1421"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1422"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1423"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1424"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1425"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1426"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1427"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1428"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1429"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1430"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1431"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1432"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1433"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1434"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1435"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1436"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1437"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1438"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1439"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1440"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1441"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1442"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1443"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1444"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1445"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1446"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1447"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1448"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1449"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1450"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1451"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1452"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1453"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1454"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1455"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1456"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1457"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1458"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1459"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1460"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1461"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1462"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1463"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1464"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1465"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1466"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1467"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1468"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1469"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1470"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1471"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1472"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1473"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1474"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1475"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1476"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1477"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1478"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1479"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1480"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1481"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1482"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1483"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1484"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1485"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1486"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1487"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1488"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1489"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1490"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1491"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1492"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1493"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1494"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1495"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1496"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1497"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1498"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1499"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1500"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1501"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1502"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1503"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1504"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1505"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1506"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1507"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1508"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1509"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1510"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1511"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1512"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1513"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1514"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1515"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1516"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1517"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1518"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1519"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1520"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1521"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1522"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1523"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1524"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1525"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1526"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1527"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1528"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1529"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1530"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1531"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1532"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1533"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1534"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1535"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1536"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1537"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1538"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1539"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1540"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1541"
+  },
+  {
+   "group": 2,
+   "name": "Global_Warming_German1542"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1543"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1544"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1545"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1546"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1547"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1548"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1549"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1550"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1551"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1552"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1553"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1554"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1555"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1556"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1557"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1558"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1559"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1560"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1561"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1562"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1563"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1564"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1565"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1566"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1567"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1568"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1569"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1570"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1571"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1572"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1573"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1574"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1575"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1576"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1577"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1578"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1579"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1580"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1581"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1582"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1583"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1584"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1585"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1586"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1587"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1588"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1589"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1590"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1591"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1592"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1593"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1594"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1595"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1596"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1597"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1598"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1599"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1600"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1601"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1602"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1603"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1604"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1605"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1606"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1607"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1608"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1609"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1610"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1611"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1612"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1613"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1614"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1615"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1616"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1617"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1618"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1619"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1620"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1621"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1622"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1623"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1624"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1625"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1626"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1627"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1628"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1629"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1630"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1631"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1632"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1633"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1634"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1635"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1636"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1637"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1638"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1639"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1640"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1641"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1642"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1643"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1644"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1645"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1646"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1647"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1648"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1649"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1650"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1651"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1652"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1653"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1654"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1655"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1656"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1657"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1658"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1659"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1660"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1661"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1662"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1663"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1664"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1665"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1666"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1667"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1668"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1669"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1670"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1671"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1672"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1673"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1674"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1675"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1676"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1677"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1678"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1679"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1680"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1681"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1682"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1683"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1684"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1685"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1686"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1687"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1688"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1689"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1690"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1691"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1692"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1693"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1694"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1695"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1696"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1697"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1698"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1699"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1700"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1701"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1702"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1703"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1704"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1705"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1706"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1707"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1708"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1709"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1710"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1711"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1712"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1713"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1714"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1715"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1716"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1717"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1718"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1719"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1720"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1721"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1722"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1723"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1724"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1725"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1726"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1727"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1728"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1729"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1730"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1731"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1732"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1733"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1734"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1735"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1736"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1737"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1738"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1739"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1740"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1741"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1742"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1743"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1744"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1745"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1746"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1747"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1748"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1749"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1750"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1751"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1752"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1753"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1754"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1755"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1756"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1757"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1758"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1759"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1760"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1761"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1762"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1763"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1764"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1765"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1766"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1767"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1768"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1769"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1770"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1771"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1772"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1773"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1774"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1775"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1776"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1777"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1778"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1779"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1780"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1781"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1782"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1783"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1784"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1785"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1786"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1787"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1788"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1789"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1790"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1791"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1792"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1793"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1794"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1795"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1796"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1797"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1798"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1799"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1800"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1801"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1802"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1803"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1804"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1805"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1806"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1807"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1808"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1809"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1810"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1811"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1812"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1813"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1814"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1815"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1816"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1817"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1818"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1819"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1820"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1821"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1822"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1823"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1824"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1825"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1826"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1827"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1828"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1829"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1830"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1831"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1832"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1833"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1834"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1835"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1836"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1837"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1838"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1839"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1840"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1841"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1842"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1843"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1844"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1845"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1846"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1847"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1848"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1849"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1850"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1851"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1852"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1853"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1854"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1855"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1856"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1857"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1858"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1859"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1860"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1861"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1862"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1863"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1864"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1865"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1866"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1867"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1868"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1869"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1870"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1871"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1872"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1873"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1874"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1875"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1876"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1877"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1878"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1879"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1880"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1881"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1882"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1883"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1884"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1885"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1886"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1887"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1888"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1889"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1890"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1891"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1892"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1893"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1894"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1895"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1896"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1897"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1898"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1899"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1900"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1901"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1902"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1903"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1904"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1905"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1906"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1907"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1908"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1909"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1910"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1911"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1912"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1913"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1914"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1915"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1916"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1917"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1918"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1919"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1920"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1921"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1922"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1923"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1924"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1925"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1926"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1927"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1928"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1929"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1930"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1931"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1932"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1933"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1934"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1935"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1936"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1937"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1938"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1939"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1940"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1941"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1942"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1943"
+  },
+  {
+   "group": 5,
+   "name": "Global_Warming_Spanish1944"
+  }
+ ]
+}

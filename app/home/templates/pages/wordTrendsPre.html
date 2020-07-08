@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Temporal Analysis of News coverage</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <script src="{{ url_for('static', filename='js/jquery-1.11.1.min.js') }}"></script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='js/plots.js') }}"></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
+<script type="text/javascript">Bokeh.set_log_level("info");</script>
+</head>
+<body>
+
+<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+      <div class="container-fluid">
+        <div class="header-body">
+
+<div class="container" align="right">
+    <h1 align="center">Temporal Analysis of News coverage</h1><br><br>
+    <div class="row">
+        <div class="col-xs-3">
+            <label>Select Dataset </label>
+            <select id="dataset">
+                <option value="select" selected="selected">Select</option>
+                <option value="olympics">Olympics</option>
+                <option value="euro">Euroscepticism</option>
+            </select>
+        </div>
+        <br>
+        <div class="col-xs-3" id="form_1">
+            <h2>Word Trends</h2>
+        </div>
+
+        <script type="text/javascript">
+            $('select#dataset').on('change', function(){
+            var selected = $("select#dataset option:selected").val();
+            if(selected == "select")
+            {
+                $("#form_1").html("<h2>Word Trends</h2>");
+                $("#form_2").html("<h2>Prominent Topics</h2>")
+            }else if (selected == "olympics") {
+            $("#form_1").html('<h2>Word Trends</h2>'+'<label> Select newspapers and cities separated by commas (bbc_london,theguardian_rio) </label>  '+
+            '<input type="text" class="form-control" id="city_news" value="bbc_london,theguardian_london"><br><br>'+
+            '<label>Select words separated by commas (government,benefit)  </label>  '+
+            '<input type="text" class="form-control" id="wd_list" value="government,profit,corruption,boris">  '+
+            '<button id="btn1">Get Word Trends</button>');
+
+            $("#form_2").html('<h2>Prominent Topics</h2>'+
+            '<label> Select newspaper and city (bbc_london) </label>  '+
+            '<input type="text" class="form-control" id="news_pub" value="bbc_london"><br><br>  '+
+            '<label> Number of topics (auto or k topics) </label>  '+
+            '<input type="text" class="form-control" id="num_k" value="5">  '+
+            '<button id="btn2">Get Topic Graph</button>')}
+            else if (selected == "euro")
+            {
+                $("#form_1").html('<h2>Word Trends</h2>'+
+                '<label> Select newspapers separated by commas (elmundo,theguardian) </label>  '+
+                '<input type="text" class="form-control" id="city_news" value="dailymail,elmundo"><br><br>'+
+                '<label>Select words separated by commas (government,benefit) </label>  '+
+                '<input type="text" class="form-control" id="wd_list" value="migrants,corruption,parliament,elections">  '+
+                '<button id="btn1">Get Word Trends</button>');
+
+            $("#form_2").html('<h2>Prominent Topics</h2>'+
+            '<label> Select newspaper (elmundo) </label>  '+
+            '<input type="text" class="form-control" id="news_pub" value="dailymail"><br><br>  '+
+            '<label> Number of topics (auto or k topics) </label>  '+
+            '<input type="text" class="form-control" id="num_k" value="5">  '+
+            '<button id="btn2">Get Topic Graph</button>')
+            }});
+
+        </script>
+        <div class="col-md-6">
+            <div class="chart" id="linegraph">
+                <script>
+                    var graphs = {{line | safe}};
+                    Plotly.plot('linegraph',graphs,{});
+                </script>
+            </div>
+        </div>
+        <br><br>
+        <div class="col-xs-3" id="form_2"><h2>Prominent Topics</h2></div>
+        <br><br>
+        <div class="col-md-6"><div class="chart" id="topicgraph"></div></div>
+        <br><br>
+    </div>
+    </div>
+
+     </div>
+       </div>
+          </div>
+            <!-- Header -->
+{% include 'includes/header.html' %}
+<div class="container-fluid">
+  {% include 'includes/sidenav.html' %}
+</div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+    <style>
+        .container_large {
+            padding-left: 50px;
+            padding-right: 50px;
+            padding-top: 100px;
+            align-items: center;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container_large">
+        <h2>{{title}}</h2>
+        <br>
+        <div>
+            {{spacy_html | markdown}}
+        </div>
+    </div>
+</body>
+</html>

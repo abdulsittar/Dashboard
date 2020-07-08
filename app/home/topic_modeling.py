@@ -20,6 +20,10 @@ from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
 from nltk import ngrams
 
+import plotly
+import plotly.express as px
+import plotly.graph_objects as go
+
 import gensim
 import gensim.corpora as corpora
 from gensim.utils import simple_preprocess
@@ -37,7 +41,7 @@ def get_stopwords_caio(lang):
                                 'said', 'caption', 'image', 'copyright',
                                 'getty', 'bbc', 'theguardian', 'dailymail',
                                 'telegraph', 'images', 'bookmark', 'reddit',
-                                'd','s','t','m','n','ve', 'll'])
+                                'd', 's', 't', 'm', 'n', 've', 'll'])
         return df_stopwords | custom_stopwords
     elif lang == 'pt':
         # df_stopwords = set(nltk.corpus.stopwords.words('english'))
@@ -63,6 +67,7 @@ def get_stopwords_daniela(lang):
         custom_stopwords = set(['euroesceptic', 'euroescept', 'euroesceptics',
                                 'euroescepticismo'])
         return df_stopwords | custom_stopwords
+
 
 def topic_model_lda_auto(data_all, lemmatize, use_bigrams, use_trigrams, df_stopwords, nlp):
     def sent_to_words(docs):
@@ -91,12 +96,14 @@ def topic_model_lda_auto(data_all, lemmatize, use_bigrams, use_trigrams, df_stop
     def compute_coherence_values(dictionary, corpus, texts, limit, start=2, step=3):
         """
         Compute c_v coherence for various number of topics
+
         Parameters:
         ----------
         dictionary : Gensim dictionary
         corpus : Gensim corpus
         texts : List of input texts
         limit : Max num of topics
+
         Returns:
         -------
         model_list : List of LDA topic models
@@ -236,12 +243,55 @@ def topic_model_lda_k(data_all, lemmatize, use_bigrams, use_trigrams, df_stopwor
                                             alpha='auto',
                                             per_word_topics=True)
 
-
     # Compute Coherence Score
     coherence_model_lda = CoherenceModel(model=model, texts=data_lemmatized, dictionary=id2word,
                                          coherence='c_v')
     coherence_lda = coherence_model_lda.get_coherence()
     print('\nCoherence Score: ', coherence_lda)
 
-
     return model, corpus, id2word
+
+
+def get_topic_assignments(ldamodel, corpus, all_titles, all_ranks, all_dates):
+    # Init output
+    sent_topics_df = pd.DataFrame()
+
+    # Get main topic in each document
+    for i, row in enumerate(ldamodel[corpus]):
+        row = sorted(row[0], key=lambda x: (x[1]), reverse=True)
+        # Get the Dominant topic, Perc Contribution and Keywords for each document
+        for j, (topic_num, prop_topic) in enumerate(row):
+            if j == 0:  # => dominant topic
+                wp = ldamodel.show_topic(topic_num)
+                topic_keywords = ", ".join([word for word, prop in wp])
+                sent_topics_df = sent_topics_df.append(pd.Series([int(topic_num), round(prop_topic, 4)]),
+                                                       ignore_index=True)
+            else:
+                break
+
+    # Add original text to the end of the output
+    sent_topics_df = pd.concat([sent_topics_df, pd.DataFrame(all_titles),
+                                pd.DataFrame(all_ranks), pd.DataFrame(all_dates)], axis=1)
+
+    sent_topics_df.columns = ['topic', 'perc_contribution', 'title', 'rank', 'date']
+
+    return sent_topics_df
+
+
+def get_topic_bargraph(df_topic_assign):
+    max_tpc = max(df_topic_assign['topic'])
+    plot_data = []
+
+    for tpc in range(0, int(max_tpc) + 1):
+        temp_df_tpc = df_topic_assign[df_topic_assign['topic'].apply(lambda tp: int(tp) == tpc)]
+        plot_vals = []
+        for year in range(2004, 2020):
+            temp_df_year = temp_df_tpc[temp_df_tpc['date'].apply(lambda dt: int(dt.split('/')[2]) == year)]
+            if not temp_df_year.empty:
+                plot_vals.append(temp_df_year.size)
+            else:
+                plot_vals.append(0)
+
+        plot_data.append(go.Bar(x=list(range(2004, 2020)), y=plot_vals, name='Topic %d' % (tpc + 1)))
+
+    return plot_data

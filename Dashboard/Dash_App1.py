@@ -71,14 +71,15 @@ layout = html.Div([
         style={'margin-left': '25%', 'margin-right': '10px', 'width': '73%'}),
 ])
 
-
 def add_dash(server):
+
     app = Dash(server=server, url_base_pathname=url_base)
     app.layout = layout
     app.css.config.serve_locally = False
     app.scripts.config.serve_locally = False
     # app.config['suppress_callback_exceptions'] = True
     # apply_layout_with_auth(app, layout)
+
     app.css.append_css({
         "external_url": "https://codepen.io/chriddyp/pen/bWLwgP.css"
     })
@@ -88,8 +89,9 @@ def add_dash(server):
         [dash.dependencies.Input('score-slider', 'value'),
          dash.dependencies.Input('language', 'value'),
          dash.dependencies.Input('year-slider', 'value'),
-         dash.dependencies.Input('Domains', 'value')]
-    )
+         dash.dependencies.Input('Domains', 'value')
+         ])
+
     def update_graph(score, language, year, dataSet):
         df = pd.read_csv('data/CCEdgesAllTemporal.csv')
         if dataSet == "GW":

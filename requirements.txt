@@ -21,7 +21,6 @@ dash~=1.0.1
 decorator
 flask-caching
 flask-compress
-
 gevent
 greenlet==0.4.15 ; platform_python_implementation == 'CPython'
 idna==2.8

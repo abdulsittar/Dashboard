@@ -1,0 +1,87 @@
+<!-- Main content -->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head lang="en">
+
+    <meta charset="UTF-8">
+    <title>Temporal Analysis of Information Spreading</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+
+    <script language="JavaScript" type="text/javascript" src="{{ url_for('static', filename='assets/js/jquery-1.11.1.min.js') }}"></script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='assets/js/plots.js') }}"></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+
+</head>
+<body>
+
+<div class="header pb-4 pt-2 pt-md-6">
+    <!-- Header -->
+    {% include 'includes/header.html' %}
+      <div class="container-fluid">
+          {% include 'includes/sidenav.html' %}
+      </div>
+
+       <div class="header-body " style="width:100%; margin-left: 300px; padding: 16px;">
+
+        <div class="row bg-gradient-primary">
+            <h1 class="text-white">Sentiment Analysis</h1>
+        </div>
+    <br><br>
+        <div class="row">
+            <div>
+                <label>Select Dataset  </label>
+                <select id="dataset">
+                    <option value="select" selected="selected">Select</option>
+                    <option value="olympics">Olympics</option>
+                    <option value="euro">Euroscepticism</option>
+                </select>
+            </div>
+        </div>
+    <br><br>
+        <div id="form_1">
+            <script type="text/javascript">
+                $('select#dataset').on('change', function(){
+                var selected = $("select#dataset option:selected").val();
+                if(selected == "select") { $("#form_1").html("")}
+                else if (selected == "olympics") { $("#form_1").html(
+                '<label> Select newspapers and cities separated by commas (bbc_london,theguardian_rio) </label>  '+
+                '<input type="text" class="form-control" id="city_news" value="bbc_london,theguardian_london"><br>'+
+                '<label>Select words separated by commas (government,benefit)  </label>  '+
+                '<input type="text" class="form-control" id="wd_list" value="government,profit,corruption,boris"><br>  '+
+                '<button id="btn1" class="btn btn-sm btn-primary">Get Trends</button>')}
+                else if (selected == "euro") { $("#form_1").html(
+                '<label> Select newspapers separated by commas (elmundo,theguardian) </label>  '+
+                '<input type="text" class="form-control" id="city_news" value="dailymail,elmundo"><br>'+
+                '<label>Select words separated by commas (government,benefit) </label>  '+
+                '<input type="text" class="form-control" id="wd_list" value="migrants,corruption,parliament,elections"><br> '+
+                '<button id="btn1" class="btn btn-sm btn-primary">Get Trends</button>')}
+                });
+            </script>
+        </div>
+    <br><br>
+        <div class='graph_row'>
+            <div class="chart" id="linegraph">
+                <script>
+                    var graphs = {{line | safe}};
+                    Plotly.plot('linegraph',graphs,{});
+                </script>
+            </div>   
+
+
+        </div>
+    <br><br>
+       </div>
+    </div>
+    </body>
+
+</html>

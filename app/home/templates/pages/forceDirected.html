@@ -1,6 +1,3 @@
-<!-- python -m SimpleHTTPServer 8080 //-->
-<!-- http://bl.ocks.org/mbostock/4062045 //-->
-
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
@@ -174,7 +171,7 @@ function drawNodes(nodes) {
     // used to assign nodes color by group
     var color = d3.scale.category20();
     // https://github.com/mbostock/d3/wiki/Force-Layout#wiki-nodes
-	
+
     d3.select("#plot").selectAll(".node")
         .data(nodes)
         .enter()
@@ -231,21 +228,21 @@ function drawLinks(links) {
 </script>
 </head>
 <body>
-<div class="header bg-gradient-success pb-4 pt-2 pt-md-6">
+<div class="header pb-4 pt-2 pt-md-6">
     <div class="container-fluid">
         <div class="header-body">
     </div>
   </div>
 
-<h1 align="center">Force Directed Graph</h1><br><br>
+<h1 align="center"  class="bg-gradient-success text-white">Force Directed Graph</h1><br><br>
     <div align="center">
         <h2 style="text-align:center;display:inline;color:#1f77b4;padding:5px;">English    </h2>
-        <h2 style="text-align:center;display:inline;color:#aec7e8;padding: 5px;">German  </h2>
+        <h2 style="text-align:center;display:inline;color:#aec7e8;padding: 5px;">German </h2>
         <h2 style="text-align:center;display:inline;color:#ff7f0e;padding: 5px;">Portuguese  </h2>
         <h2 style="text-align:center;display:inline;color:#feba78;padding: 5px;">Slovene  </h2>
         <h2 style="text-align:center;display:inline;color:#2ca02c;padding: 5px;">Spanish</h2>
     </div>
-    <div class="col-xs-3" align="right">
+    <div class="col-xs-3" align="center">
     <select id="fdDataset" onchange="run()">
         <option value="select" selected="selected">Select Domain</option>
         <option value="FF">FIFA World Cup</option>
@@ -253,20 +250,25 @@ function drawLinks(links) {
         <option value="EQ">Earthquake </option>
     </select>
 </div>
-<div align="right" id="force"></div>
-
+<div align="center" id="force"></div>
 <script>
-d3.json("static/SPEdgesAllForceDirected.json", drawGraph)
+d3.json("/static/CCEdgesAllForceDirected2.json", drawGraph)
 function run() {
     var e = document.getElementById("fdDataset");
     var value = e.options[e.selectedIndex].value;
     var text = e.options[e.selectedIndex].text;
     if(value == "FF"){
-        d3.json("static/SPEdgesAllForceDirected.json", drawGraph)
+
+        d3.json("/data/SPEdgesAllForceDirected2.json", drawGraph)
+
     }else if(value == "GW"){
-        d3.json("static/CCEdgesAllForceDirected.json", drawGraph)
+
+        d3.json("/data/CCEdgesAllForceDirected2.json", drawGraph)
+
     }else if(value == "EQ"){
-        d3.json("static/NDEdgesAllForceDirected.json", drawGraph)
+
+        d3.json("/data/NDEdgesAllForceDirected2.json", drawGraph)
+
     }
  }
 </script>

@@ -1,0 +1,59 @@
+<!-- Main content -->
+<div class="main-content">
+
+    <div class="container-fluid bg-gradient-success">
+        <div class="row">
+            <h1 class="text-white">Word Trends</h1>
+        </div>     
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class="row">
+            <div>
+                <select id="dataset">
+                    <option value="select" selected="selected">Select Dataset</option>
+                    <option value="olympics">Olympics</option>
+                    <option value="euro">Euroscepticism</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="container-fluid">
+        <div id="form_1">
+            <script type="text/javascript">
+                $('select#dataset').on('change', function(){
+                var selected = $("select#dataset option:selected").val();
+                if(selected == "select") { $("#form_1").html("")}
+                else if (selected == "olympics") { $("#form_1").html(
+                '<label> Select newspapers and cities separated by commas (bbc_london,theguardian_rio) </label>  '+
+                '<input type="text" class="form-control" id="city_news" value="bbc_london,theguardian_london"><br>'+
+                '<label>Select words separated by commas (government,benefit)  </label>  '+
+                '<input type="text" class="form-control" id="wd_list" value="government,profit,corruption,boris"><br>  '+
+                '<button id="btn1" class="btn btn-sm bg-gradient-success  text-white">Get Trends</button>')}
+                else if (selected == "euro") { $("#form_1").html(
+                '<label> Select newspapers separated by commas (elmundo,theguardian) </label>  '+
+                '<input type="text" class="form-control" id="city_news" value="dailymail,elmundo"><br>'+
+                '<label>Select words separated by commas (government,benefit) </label>  '+
+                '<input type="text" class="form-control" id="wd_list" value="migrants,corruption,parliament,elections"><br> '+
+                '<button id="btn1" class="btn btn-sm bg-gradient-success text-white">Get Trends</button>')}
+                });
+            </script>
+        </div>
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class='row'>
+            <div class="chart" id="linegraph">
+            </div>  
+        </div>
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class='row'>
+            <div id="trendtable">
+            </div>
+        </div>
+    </div>
+    <br><br><br>
+</div>

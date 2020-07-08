@@ -1,0 +1,65 @@
+<!-- Main content -->
+<div class="main-content">
+    <div class="container-fluid bg-gradient-success">
+        <div class="row">
+            <h1 class="text-white">Topic Modeling</h1>
+        </div>     
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class="row">
+            <div>
+                <select id="dataset">
+                    <option value="select" selected="selected">Select Dataset</option>
+                    <option value="olympics">Olympics</option>
+                    <option value="euro">Euroscepticism</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="container-fluid">
+        <div id="form_2">
+            <script type="text/javascript">
+                $('select#dataset').on('change', function(){
+                var selected = $("select#dataset option:selected").val();
+                if(selected == "select") {$("#form_2").html("") }
+                else if (selected == "olympics") {
+                $("#form_2").html('<label> Select newspaper and city (bbc_london) </label>  '+
+                '<input type="text" class="form-control" id="news_pub" value="bbc_london"><br>  '+
+                '<label> Number of topics (auto or k topics) </label>  '+
+                '<input type="text" class="form-control" id="num_k" value="5"><br>  '+
+                '<button id="btn2" class="btn btn-sm bg-gradient-success text-white">Get Topic Graph</button>')}
+                else if (selected == "euro") {
+                $("#form_2").html('<label> Select newspaper (elmundo) </label>  '+
+                '<input type="text" class="form-control" id="news_pub" value="dailymail"><br>  '+
+                '<label> Number of topics (auto or k topics) </label>  '+
+                '<input type="text" class="form-control" id="num_k" value="5"><br>  '+
+                '<button id="btn2" class="btn btn-sm bg-gradient-success text-white">Get Topic Graph</button>')}
+                });
+            </script>
+        </div>
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class='row'>
+            <div class="chart" id="topicgraph">
+            </div>
+        </div>
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class='row'>
+            <div class="chart" id="topicdist">
+            </div>
+        </div>
+    </div>
+    <br><br>
+    <div class="container-fluid">
+        <div class='row'>
+            <div id="topictable">
+            </div>
+        </div>
+    </div>
+    <br<br>
+</div>

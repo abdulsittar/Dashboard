@@ -1,0 +1,66 @@
+#form_1
+{
+    width: 780px;
+
+    /* margin-right: -15px;
+    margin-left: -15px;  */
+    margin: auto;
+}
+
+#form_2
+{
+    width: 500px;
+    margin: auto;
+    /* margin-right: -15px;
+    margin-left: -15px;  */
+}
+
+#linegraph
+{
+    height: 500px;
+    width: 1210px;
+    margin: auto;
+    / box-shadow: 5px 10px #5e72e4; /
+}
+
+#topicdist
+{
+    height: 500px;
+    width: 1210px;
+    margin: auto;
+}
+
+#topicgraph
+{
+    width: 1210px;
+    height: 780px;
+    margin: auto;
+}
+
+
+#trendtable
+{
+    width: 1210px;
+    margin: auto;
+}
+
+#topictable
+{
+    width: 1210px;
+    margin: auto;
+}
+
+td
+{
+    padding:0 10px;
+}
+
+th
+{
+    padding:0 10px;
+}
+
+table
+{
+    width: 1210px;
+}
