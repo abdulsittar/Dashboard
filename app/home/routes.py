@@ -163,7 +163,8 @@ def forceDirected():
 
 @blueprint.route('/aboutus', methods=['GET', 'POST'])
 def aboutus():
-    return render_template("pages/aboutus.html")
+    return render_template('layouts/default.html',
+                           content=render_template("pages/aboutus.html"))
 
 
 @blueprint.route('/dashapp1')
@@ -262,8 +263,6 @@ def create_bar_plot(city_news, wd_list):
         sites = city_news.split(',')
         words = wd_list.split(',')
 
-        print(sites, words)
-
         plot_data = []
         for site in sites:
             site = site.strip()
@@ -318,7 +317,6 @@ def create_line_plot(city_news, wd_list):
         sites = city_news.split(',')
         words = wd_list.split(',')
 
-        print(sites, words)
 
         plot_data = []
         for site in sites:
@@ -477,7 +475,6 @@ def add_topic_modeling():
     elif dataset == 'euro' and os.path.exists('data/topic_models/%s_%s.html' % (site, num_k)):
         lda_html = open('data/topic_models/%s_%s.html' % (site, num_k), 'r', encoding='utf-8').read()
 
-
     else:
         if lang_dict[site] == 'en':
             nlp = spacy.load("en_core_web_sm", disable=['parser', 'ner'])
@@ -624,7 +621,6 @@ def add_sentiment():
 
     for tpc in range(0, int(max(year_tpc_assign['topic'])) + 1):
         sub_assign_tpc = year_tpc_assign[year_tpc_assign['topic'].apply(lambda tp: int(tp) == tpc)]
-        print(sub_assign_tpc)
         for i, row in sub_assign_tpc.iterrows():
             table_items.append(Item(news_site, row[3].split('_')[1], int(tpc) + 1, row[2], row[4]))
 

@@ -14,7 +14,7 @@ from flask_sqlalchemy import SQLAlchemy
 from importlib import import_module
 # Import routing, models and Start the App
 # from app import views, models
-from Dashboard import Dash_App1
+from DashApp import Dash_App1
 
 from flask_bcrypt import Bcrypt
 

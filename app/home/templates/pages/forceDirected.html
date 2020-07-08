@@ -228,13 +228,13 @@ function drawLinks(links) {
 </script>
 </head>
 <body>
-<div class="header pb-4 pt-2 pt-md-6">
-    <div class="container-fluid">
-        <div class="header-body">
+<div class="main-content">
+    <div class="container-fluid bg-gradient-success">
+        <div class="row">
+            <h1 class="text-white " style="margin-left:260px;">Propagation Analysis</h1>
+        </div>
     </div>
-  </div>
-
-<h1 align="center"  class="bg-gradient-success text-white">Force Directed Graph</h1><br><br>
+<div class="container-fluid">
     <div align="center">
         <h2 style="text-align:center;display:inline;color:#1f77b4;padding:5px;">English    </h2>
         <h2 style="text-align:center;display:inline;color:#aec7e8;padding: 5px;">German </h2>
@@ -251,6 +251,8 @@ function drawLinks(links) {
     </select>
 </div>
 <div align="center" id="force"></div>
+   </div>
+    </div>
 <script>
 d3.json("/static/CCEdgesAllForceDirected2.json", drawGraph)
 function run() {
@@ -259,20 +261,20 @@ function run() {
     var text = e.options[e.selectedIndex].text;
     if(value == "FF"){
 
-        d3.json("/data/SPEdgesAllForceDirected2.json", drawGraph)
+        d3.json("/static/SPEdgesAllForceDirected2.json", drawGraph)
 
     }else if(value == "GW"){
 
-        d3.json("/data/CCEdgesAllForceDirected2.json", drawGraph)
+        d3.json("/static/CCEdgesAllForceDirected2.json", drawGraph)
 
     }else if(value == "EQ"){
 
-        d3.json("/data/NDEdgesAllForceDirected2.json", drawGraph)
+        d3.json("/static/NDEdgesAllForceDirected2.json", drawGraph)
 
     }
  }
 </script>
-</div>
+
 <!-- Header -->
     {% include 'includes/header.html' %}
       <div class="container-fluid">

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <title>TIME Dashboard</title>
+    <meta name="description" content="Admin Panel with Argon Design crafted by Creative-Tim and coded in Flask  with SQLite database, ORM and authentication.">
+
+    <script src="../static/assets/js/plots.js"></script>
+    <script src="../static/assets/js/displacy.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" integrity="sha384-JpP8FXbgAZLkfur7LiK3j9AGBhHNIvF742meBJrjO2ShJDhCG2I1uVvW+0DUtrmc" crossorigin="anonymous"></script>
+
+    {% include 'includes/header.html' %}
+
+  </head>
+
+<body>
+
+  {% include 'includes/sidenav.html' %}
+
+  {{ content | safe }}
+
+  {% include 'includes/scripts.html' %}
+
+</body>
+
+</html>
+
+
+
+
